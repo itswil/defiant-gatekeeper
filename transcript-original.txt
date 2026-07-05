@@ -1,0 +1,3304 @@
+# Full course on stock investing (2 hours)
+# https://www.youtube.com/watch/GCzjetZZU54
+
+00:00:01.280 Hey guys. So, I started this channel
+00:00:03.280 about two years ago with a goal of
+00:00:05.279 educating people to make better
+00:00:06.720 decisions when investing in stocks.
+00:00:08.800 Since then, I've been making a lot of
+00:00:10.559 videos about stock investing strategies
+00:00:12.480 like valuation, macro indicators,
+00:00:14.639 reading the Federal Reserve actions, and
+00:00:16.560 investment mindsets. Now, I understand
+00:00:18.880 that a lot of you are new to the channel
+00:00:21.199 and very recently I've been getting a
+00:00:22.880 lot of questions like, &quot;How can I become
+00:00:24.720 a better stock investor? How can I read
+00:00:26.720 the market better? What indicators do I
+00:00:28.960 have to monitor? Now, while my previous
+00:00:31.039 videos cover everything related to those
+00:00:32.800 questions, I do understand that my
+00:00:35.120 videos are now quite scattered in the
+00:00:37.600 library, which makes it hard for you to
+00:00:39.760 find the ones which are strictly
+00:00:41.120 relevant to the fundamentals of stock
+00:00:42.879 investing. So, I wanted to make this
+00:00:44.960 compilation video which includes all the
+00:00:47.120 basic theories about stock investing.
+00:00:49.280 For each of the video, I'll include a
+00:00:51.200 short commentary in between so that you
+00:00:53.199 get an idea of why I made such video.
+00:00:56.239 Now, because this video is a compilation
+00:00:58.399 of my past videos, the quality of the
+00:01:00.640 videos may not be good for the older
+00:01:02.640 videos, but I hope you can bear with me.
+00:01:05.199 I can assure you that if you watch this
+00:01:07.040 video thoroughly a few times, you'll
+00:01:09.280 pretty much master all the basic skill
+00:01:11.200 sets you need to have to become a better
+00:01:13.280 investor. Okay, let's get to it. Now,
+00:01:15.680 the first video is a course on price to
+00:01:18.159 earnings ratio. As you may all know,
+00:01:20.320 this is probably the most important
+00:01:21.920 valuation metric which I refer to in my
+00:01:24.479 market update videos. Hopefully through
+00:01:26.960 this video you can get a better
+00:01:28.640 understanding about the most basic
+00:01:30.159 methodology when valuing stocks. Okay,
+00:01:33.280 here we go.
+00:01:36.960 Today I wanted to deep dive into a stock
+00:01:39.439 pricing and valuation metric. The most
+00:01:41.520 commonly used valuation metric in the
+00:01:43.439 stock market from an equity investor's
+00:01:45.200 perspective is the price to earnings
+00:01:47.040 ratio, which is generally noted as the
+00:01:49.360 PE ratio. Now, I've been monitoring a
+00:01:51.520 lot of videos on YouTube and they spend
+00:01:53.439 10 or 20 minutes talking about how PE
+00:01:55.840 ratio is important and that you need to
+00:01:57.920 focus on this valuation metric to
+00:01:59.520 succeed and also the way to calculate
+00:02:01.360 the PE ratio which literally takes like
+00:02:03.680 2 seconds to learn it yourself. It
+00:02:05.520 really amuses me how all [ __ ]
+00:02:07.200 YouTubers talk about this simple metric
+00:02:08.878 on and on wasting everyone's time and
+00:02:11.120 what they're saying can actually be
+00:02:12.480 explained in 2 seconds. Today, I want to
+00:02:14.959 cover this concept of price to earnings.
+00:02:16.959 But going further from here, how to
+00:02:18.720 actually understand this number and how
+00:02:20.720 you should apply it yourself when you're
+00:02:22.400 investing. Okay. Now, what is price to
+00:02:24.800 earnings ratio? It is a very simple
+00:02:26.560 concept. All you need to do is divide a
+00:02:28.959 company's market cap by its net income.
+00:02:30.879 Assuming that company A's market cap is
+00:02:32.720 currently at 100 billion and its net
+00:02:34.640 income is at 10 billion, the company's
+00:02:36.879 price to earnings ratio is 10x. Simple,
+00:02:39.519 right? Now, this is where all YouTubers
+00:02:42.080 stop explaining about the concept itself
+00:02:44.080 and just go on and on about the
+00:02:45.680 importance of this metric and how you
+00:02:47.519 should be looking at it all the time.
+00:02:49.440 Now, why don't we just deep dive into
+00:02:51.360 it? I want to break down this topic into
+00:02:53.120 five topics to help you get a better
+00:02:54.640 idea of what this metric actually means.
+00:02:56.800 Number one, why is price to earnings
+00:02:58.879 ratio actually important? So, price to
+00:03:01.040 earnings ratio shows how long of a time
+00:03:02.800 a company takes for it to make money up
+00:03:04.879 to the total value of the shares you
+00:03:06.800 paid to purchase for it. For example, in
+00:03:09.200 the example I gave you just now, company
+00:03:10.959 A's market cap was at around 100 billion
+00:03:13.360 and it net income was at 10 billion,
+00:03:15.360 implying a price to earnings ratio of 10
+00:03:17.680 times. What this means is that starting
+00:03:19.680 from today, this company A will take 10
+00:03:22.400 years for it to make the money you paid
+00:03:24.480 to purchase the company. So assuming you
+00:03:26.400 purchased 10 shares out of a million
+00:03:28.720 shares, total shares of the company A,
+00:03:31.040 it would mean that you're owning 0.001%
+00:03:34.159 of the company's stake. If you purchase
+00:03:36.159 those shares when the company was at a
+00:03:38.080 market cap of 100 billion as a
+00:03:40.159 shareholder, you're also potentially
+00:03:42.080 gaining the right on 0.001%
+00:03:45.120 of the 10 billion net income the
+00:03:47.120 company's generating, which you can
+00:03:48.720 potentially benefit through dividends or
+00:03:50.959 share buybacks in the future. So
+00:03:52.959 basically, the basic concept is how long
+00:03:55.440 of a time it takes for you to get your
+00:03:57.680 invested money back from the company
+00:03:59.360 down the road. Depending on the price to
+00:04:01.040 earnings ratio, it may suggest that it
+00:04:03.120 may take 10 years or 5 years or 20
+00:04:05.439 years. Now, based on what I told you
+00:04:07.280 now, low number looks good, right?
+00:04:09.360 Getting your money back in 5 years is
+00:04:11.200 definitely better than getting it back
+00:04:12.959 in 10 years. Well, that's not really the
+00:04:14.959 case. So, let's move on to the next
+00:04:17.519 topic. Number two, understanding price
+00:04:19.839 to earnings ratio from financial
+00:04:21.358 projections perspective. Now, we talked
+00:04:23.680 about the overall concept of price to
+00:04:25.680 earnings ratio. Right? Now, you might
+00:04:27.520 think that a five times price to
+00:04:29.280 earnings ratio company is better to
+00:04:31.120 invest than a 10 times price to earnings
+00:04:33.440 ratio company. Well, let's try to prove
+00:04:34.960 that that is not the case. Let's say
+00:04:36.800 that you have company A and company B.
+00:04:39.520 Company A and company B both currently
+00:04:41.360 have market cap of 10 billion while
+00:04:43.840 company A has net income of 1 billion
+00:04:46.479 while company B has net income of 500
+00:04:49.520 million. This means that company A is
+00:04:51.520 trading at 10 times price to earnings
+00:04:53.120 ratio while company B is trading at 20
+00:04:55.199 times price to earnings ratio. Does
+00:04:56.880 company A look better to invest? Well,
+00:04:59.199 let's think about that. Let's assume
+00:05:00.960 that in 2024, company A and company B
+00:05:03.680 recorded net income of 1 billion and 500
+00:05:06.720 million. But in 2025, company A again
+00:05:09.600 recorded 1 billion and company B
+00:05:11.759 suddenly also recorded 1 billion. Then
+00:05:14.400 in 2026, company A's net income still
+00:05:17.360 stays at 1 billion, but company B's net
+00:05:19.440 income increased to two billion. In the
+00:05:21.840 next two years as well, let's assume
+00:05:23.840 that company A's net income stays at 1
+00:05:26.080 billion, but company B's net income
+00:05:28.400 increased to 3 billion and 4 billion.
+00:05:30.720 Now, in aggregate over the 5-year time
+00:05:32.880 frame, company A generated total net
+00:05:34.800 income of 5 billion, while company B
+00:05:36.880 generated total net income of 10.5
+00:05:39.120 billion. While it might seem like you're
+00:05:41.680 investing in an overvalued stock at the
+00:05:43.440 time of the investment, looking at this
+00:05:45.360 result, investing in company B turned
+00:05:47.280 out to be a better choice. This is why a
+00:05:49.600 company's future prospect is much more
+00:05:51.919 important than its historical
+00:05:53.360 performance when you're investing in a
+00:05:54.720 stock. So, let's move on to the next
+00:05:56.240 topic. Number three, understanding price
+00:05:58.080 to earnings ratio from a regression
+00:06:00.000 analysis perspective is important. So,
+00:06:02.400 based on what I told you so far, you'll
+00:06:04.160 now understand that low PE is not always
+00:06:07.199 a good thing. So now let's try to deep
+00:06:09.520 dive further into how we can understand
+00:06:11.759 the price earnings ratio better relative
+00:06:14.080 to its earnings growth. So now you
+00:06:16.000 understand that the future net income is
+00:06:17.759 crucial when buying a stock. So to get
+00:06:19.759 an even better idea of whether you're
+00:06:22.160 making the right purchase, you can do
+00:06:23.600 what is called a regression analysis. A
+00:06:25.919 regression analysis is something you do
+00:06:27.759 to find out how much of a close
+00:06:29.360 relationship two metrics would have with
+00:06:31.199 each other. Generally the formula is a
+00:06:33.600 linear formula which is noted as y = a +
+00:06:37.039 xb. If you have a fair number of set of
+00:06:39.199 data you can automatically generate the
+00:06:41.199 chart and the equation in the excel. So
+00:06:43.520 this is the excel spreadsheet and here I
+00:06:45.919 have 10 companies with different price
+00:06:47.520 to earnings and next 5 years EPS growth.
+00:06:50.479 There are two things to consider here
+00:06:52.240 when you're running this regression.
+00:06:54.080 Number one, please make sure that you're
+00:06:55.840 comparing against the companies within
+00:06:57.280 the same industry. And number two, make
+00:06:59.520 sure that you have around 10 companies
+00:07:01.520 to make the regression analysis more
+00:07:03.199 meaningful. Now, I'm not going to go
+00:07:04.479 into the details of the formula given
+00:07:06.080 the goal here is really to be practical
+00:07:08.479 rather than being academical. So, with
+00:07:10.400 the data that you have, you can create a
+00:07:12.720 scatter chart in the Excel like this.
+00:07:14.720 And if you press the plus icon next to
+00:07:16.960 the chart, you can also add a trend line
+00:07:19.919 and a regression formula. Now, based on
+00:07:22.240 the trend line, you can get a sense of
+00:07:23.840 how steep of a relationship your set of
+00:07:26.000 data has with each other. Also, if you
+00:07:28.080 press the plus button again, you can
+00:07:29.680 also insert a thing called R squar. Now,
+00:07:32.479 what is R squar? R squar shows how much
+00:07:34.960 of a correlation the two sets of data
+00:07:36.720 you laid out have against with each
+00:07:38.479 other. A higher R squared means that the
+00:07:41.199 correlation between the PE ratio and the
+00:07:43.199 earnings growth are highly correlated.
+00:07:45.599 So, you can confirm that for the
+00:07:47.199 industry which you picked, a higher
+00:07:48.880 earnings growth leads to a higher PE
+00:07:51.039 ratio. The reverse would work for the
+00:07:52.960 vice versa. Now I would suggest that you
+00:07:54.960 only put a lot of confidence on your PE
+00:07:56.720 ratio and the correlation with this net
+00:07:58.720 income growth projections only if this R
+00:08:01.360 squar is above 0.8. R 2 is between the
+00:08:04.879 range of 0 and 1 and a 0.8 would act as
+00:08:08.720 a strong basis for you to believe that
+00:08:10.560 the price to earnings ratio of the stock
+00:08:12.240 you picked is trading either high or low
+00:08:14.960 because of its earnings growth is either
+00:08:17.039 high or low. Number four, always look at
+00:08:19.919 forward price to earnings ratio. Now,
+00:08:21.919 when I say forward price to earnings
+00:08:23.520 ratio, what I mean is a forward-looking
+00:08:25.759 price to earnings ratio. For example,
+00:08:27.440 right now it's December 2024. So,
+00:08:30.000 generally you can find actual reported
+00:08:32.000 net income up to the third quarter of
+00:08:34.320 2024, which is September 2024. You might
+00:08:37.760 add the last four quarters of net income
+00:08:39.839 to derive your price to earnings ratio,
+00:08:41.919 but often times this leads to a mistake.
+00:08:44.800 This is because companies have a lot of
+00:08:46.320 one-off items in the reported net income
+00:08:48.399 such as one-off taxes, one-off expenses,
+00:08:50.640 and etc. And therefore, you would want
+00:08:52.800 to look at either 2024 fullear net
+00:08:55.519 income projections as the basis of your
+00:08:57.360 price to earnings ratio calculation. Or
+00:08:59.680 if you're approaching at year end like
+00:09:01.440 now, you may even want to use 2025 net
+00:09:04.000 income to derive your price to earnings
+00:09:05.839 ratio. Also, given all equity investors
+00:09:08.480 are forward-looking, in other words,
+00:09:10.320 they care about what will happen in the
+00:09:12.080 future, not the past, it makes even more
+00:09:14.560 sense for you to focus on forward PE
+00:09:16.399 ratio. Number five, don't only rely on
+00:09:19.200 price to earnings ratio. Now, price to
+00:09:21.120 earnings ratios can be very volatile. A
+00:09:23.440 stock can be trading at a very high or
+00:09:25.120 low level because of a one-off event.
+00:09:27.360 for example, a political push,
+00:09:29.040 geopolitical tension, natural disasters
+00:09:31.279 like COVID 19, sudden inflow of capital
+00:09:33.839 from market participants and etc. I
+00:09:36.240 suggest you always make your own hard
+00:09:38.080 cold projections and follow your
+00:09:39.680 instinct when purchasing a stock. Now,
+00:09:41.279 let's summarize the key considerations
+00:09:42.880 of price to earnings ratio. Number one,
+00:09:45.040 price to earnings ratio is important
+00:09:46.880 because it shows how long of a time a
+00:09:49.120 company takes for it to make money up to
+00:09:50.880 the total value of the shares you paid
+00:09:52.560 to purchase it. Number two, a company's
+00:09:54.800 net income forecast is what determines a
+00:09:56.800 price to earnings ratio if the
+00:09:58.240 projections are high. A price to
+00:10:00.080 earnings ratio may be trading at a high
+00:10:02.000 level and vice versa. Number three, you
+00:10:04.080 should always verify the relationship
+00:10:05.600 with the price to earnings ratio and net
+00:10:07.360 income growth of your company which you
+00:10:09.440 want to invest using regression analysis
+00:10:11.680 and R squared analysis using comparable
+00:10:14.720 companies. Number four, you should
+00:10:16.640 always look at forward price to earnings
+00:10:18.399 ratio. And number five, don't only rely
+00:10:20.880 on price to earnings ratio as it may be
+00:10:22.959 impacted by one-off events which may
+00:10:24.640 fade away quite quickly. Now that's the
+00:10:26.480 end of my lecture on price to earnings
+00:10:28.240 ratio. I'll be back with more videos
+00:10:30.000 soon. Okay, so as a follow-up to the
+00:10:32.399 price to earnings ratio video, the
+00:10:34.160 second video is a course on EVA
+00:10:36.720 valuation multiple. And while price to
+00:10:38.880 earnings ratio is a valuation metric
+00:10:40.720 strictly for the equity holders, EVA
+00:10:43.200 multiple covers the debt structure of
+00:10:45.200 the company as well which would give us
+00:10:47.360 a better idea about the company's cash
+00:10:49.200 flow from its pure operations
+00:10:51.120 perspective. Okay, here we go.
+00:10:57.200 Okay, so some of you may have seen my
+00:10:59.040 video titled P ratio really explained.
+00:11:01.760 In the video, I explained why PE ratio
+00:11:04.079 is important, how to calculate it, but
+00:11:06.560 expanding from there also talked about
+00:11:08.480 the implications this metric has
+00:11:10.800 including the importance of future
+00:11:12.399 prospect of the earnings. However, in my
+00:11:15.279 investment strategy related videos, a
+00:11:17.040 lot of you may have realized that I
+00:11:18.399 generally look at EVA multiple just as
+00:11:20.800 much as PE ratio and sometimes even
+00:11:23.120 prefer to just look at EVA multiple
+00:11:25.360 rather than AP ratio. Today I wanted to
+00:11:28.480 explain to you guys why I look at this
+00:11:30.399 multiple closely and when this multiple
+00:11:32.560 can be meaningful when valuing the
+00:11:34.399 company. Now guys please watch this
+00:11:37.040 video very carefully. I know a lot of
+00:11:39.200 retail investors just focus on PE ratio
+00:11:41.519 because it's the most commonly used
+00:11:43.040 valuation metric among the public but
+00:11:45.519 understanding EVA multiple properly will
+00:11:48.000 really enhance your understanding about
+00:11:49.760 valuation and really up your game when
+00:11:52.320 it comes to investing. Now just like PE
+00:11:54.959 ratio I noticed that there are a lot of
+00:11:56.560 videos on YouTube which explains how to
+00:11:58.399 calculate EVA multiple but there are not
+00:12:01.279 that many videos which actually explains
+00:12:03.200 why this metric is important. Today I'll
+00:12:06.240 break down this topic into three
+00:12:07.600 subtopics including number one
+00:12:09.760 calculating the multiple number two what
+00:12:12.000 this multiple actually means and number
+00:12:14.079 three when we should be focusing on this
+00:12:16.160 multiple. Now as always I'll try to be
+00:12:19.040 as practical as possible. So I'll avoid
+00:12:21.440 going into too much technical and
+00:12:22.880 academic details around this topic.
+00:12:25.360 Okay. So on the first topic calculating
+00:12:27.839 the multiple just like P ratio is a very
+00:12:30.880 simple calculation though it requires a
+00:12:32.959 bit more manual labor. In order to
+00:12:35.519 calculate an EV the multiple you need to
+00:12:37.680 calculate EV which is enterprise value
+00:12:40.160 and EBIDA which is earnings before
+00:12:42.399 interest, taxes, appreciation and
+00:12:44.880 amortization.
+00:12:46.480 Now first on the EV basically EV is
+00:12:49.760 calculated with the following formula.
+00:12:52.079 Market cap plus total debt plus
+00:12:54.560 preferred stock if any plus minority
+00:12:57.200 interest if any minus cash and cash
+00:13:00.320 equivalent.
+00:13:01.839 Now market cap is straightforward. It's
+00:13:04.079 just the market cap you see on Google or
+00:13:06.079 any website. Let's assume there's a
+00:13:08.560 company with $10 billion of market cap.
+00:13:10.959 So the company's market cap is $10
+00:13:12.959 billion.
+00:13:14.959 Now, for total debt, you need to go into
+00:13:17.279 the company's financial statements, go
+00:13:19.040 to the balance sheet section, and
+00:13:21.200 identify line items that says long-term
+00:13:23.680 debt and short-term debt, and add the
+00:13:26.480 two. Basically, for total debt, you want
+00:13:29.279 to identify interestbearing debt only
+00:13:31.760 and just take into account of these
+00:13:33.519 items. Let's assume that the company's
+00:13:35.760 total debt is $2.9 billion. Now, one
+00:13:40.160 additional thing to note here is that
+00:13:42.079 after the global accounting standard
+00:13:43.839 changed to a thing called an IFRS16,
+00:13:46.959 they started booking lease agreements as
+00:13:48.880 long-term liabilities, which gets
+00:13:50.639 advertised in the income statement,
+00:13:52.639 which is effectively treating rent like
+00:13:54.560 an interest expense. Now, generally,
+00:13:57.279 these are quite small in size, so no
+00:13:59.519 need to be confused by it, but just note
+00:14:01.760 that if you see a line item which says
+00:14:04.000 long-term operating lease liabilities,
+00:14:06.480 just add that item as well.
+00:14:08.959 Now in our case, let's assume that the
+00:14:11.040 lease liabilities are $100 million. So
+00:14:14.160 in total, we have $3 billion of total
+00:14:16.880 debt. Now generally if we do this, we
+00:14:20.160 would have covered most of the interest
+00:14:21.839 bearing debt. Very rarely companies will
+00:14:24.480 show separate line items for other
+00:14:26.160 non-traditional interest bearing debt
+00:14:28.000 like convertible bonds, convertible
+00:14:29.920 shares with redeemable features,
+00:14:32.320 revolver facilities, and etc. If you see
+00:14:35.279 those items, you can just add them as
+00:14:37.120 well as long as they are interest
+00:14:38.959 bearing. But most of the times those
+00:14:41.440 should be captured under either
+00:14:43.040 long-term debt and short-term debt as
+00:14:45.360 well. Okay. Now moving on to prep
+00:14:47.680 shares. Now generally the companies
+00:14:49.760 which we look at will rarely have any
+00:14:51.519 prefares issued. However, if there are
+00:14:54.320 press shares issued, there will be two
+00:14:56.079 cases. The prep shares may be listed or
+00:14:58.639 may not be listed. Now, if you spot any
+00:15:01.360 listed pref shares, just add the pref
+00:15:03.199 shares market cap on top of the EV. If
+00:15:06.000 you see unlisted shares, we will need to
+00:15:08.240 conduct a separate valuation on the
+00:15:09.839 shares. However, given the size is
+00:15:12.079 generally very small, I would just add
+00:15:14.320 their book value on top of the EV. The
+00:15:17.040 book value of the pref shares can be
+00:15:18.639 found in a company's balance sheet under
+00:15:20.480 a line item called preferred stock. For
+00:15:23.600 our case, let's assume that this company
+00:15:25.440 has zero pref shares issued. Okay. Now
+00:15:28.639 moving on to minority interest. Now like
+00:15:31.199 press shares generally the companies
+00:15:33.040 which we look at will rarely have a
+00:15:34.800 sizable minority stake. A minority stake
+00:15:37.360 is shown on a company's financial
+00:15:38.800 statement if a company controls a
+00:15:40.639 subsidiary but does not own 100% stake.
+00:15:44.000 For example, if the company owns 80%
+00:15:46.240 stake in a subsidiary, the value of the
+00:15:48.480 remaining 20% stake will be shown as a
+00:15:50.720 minority interest in the income
+00:15:52.399 statement and the balance sheet and the
+00:15:54.480 company's market cap will assume that
+00:15:56.399 the 20% is not something which is
+00:15:58.560 attributable to the shareholders of the
+00:16:00.480 company. So, it will not take into
+00:16:02.880 account of the value. The reason we
+00:16:05.440 include minority stake in the EV
+00:16:07.199 calculation is because we want to get a
+00:16:09.279 full picture of the company as a whole
+00:16:11.199 including the subsidiaries which the
+00:16:13.120 company controls. For our case, let's
+00:16:15.600 also assume that this company has zero
+00:16:17.519 minority stake. Okay. Now, moving on to
+00:16:19.839 cash. All you need to do for this is
+00:16:22.000 just take the line item labeled cash and
+00:16:24.399 cash equivalents in the balance sheet of
+00:16:26.320 the company. It's generally the first
+00:16:28.240 line item that shows in the balance
+00:16:29.759 sheet. So, you can just grab that
+00:16:31.680 number. For our case, let's assume this
+00:16:33.839 company has $1 billion of cash.
+00:16:37.199 Okay, so to sum up, the company's market
+00:16:39.120 cap is $10 billion, his total debt is 3
+00:16:41.839 billion, and it total cash is 1 billion.
+00:16:44.480 Therefore, the company's EV is $12
+00:16:46.480 billion.
+00:16:48.399 Okay, let's move to EVA. Now, for EVA,
+00:16:52.160 you just need to take the number that is
+00:16:54.000 called operating income in the income
+00:16:56.079 statement and add depreciation and
+00:16:58.160 amortization. Operating income is
+00:17:00.639 generally in the middle of an income
+00:17:02.000 statement. Let's assume that our company
+00:17:04.240 has operating income of $1 billion.
+00:17:07.039 Also, for DNA, just go to the company's
+00:17:09.439 cash flow statement and take the number
+00:17:11.199 next to the line item depreciation and
+00:17:13.439 amortization. For our company, let's
+00:17:15.919 assume the company has $200 million of
+00:17:18.400 DNA.
+00:17:20.319 Now, if we add those two together, we
+00:17:22.400 get $1.2 billion as the company's EVA.
+00:17:26.160 Okay. So to calculate EV over EBA, we
+00:17:28.559 can see that the company has EV of $12
+00:17:30.640 billion and EBIDA of $1.2 billion, which
+00:17:34.559 results in EV over EBA of 10 times.
+00:17:38.480 Okay, so that was straightforward. By
+00:17:40.480 the way, if you don't want to calculate
+00:17:42.080 the EVA yourself, you can just get those
+00:17:44.400 numbers on Yahoo Finance or any other
+00:17:46.320 website. These multiples are generally
+00:17:48.559 easily available.
+00:17:50.640 Now, let's move on to the more important
+00:17:52.640 topics. Number two, what this multiple
+00:17:55.600 actually means. To give you a simple
+00:17:57.679 explanation, EVVA multiple takes into
+00:18:00.080 account of debt and equity of a company
+00:18:02.320 which allows the investor to value the
+00:18:04.720 company regardless of the capital
+00:18:06.240 structure. Now, to help you understand
+00:18:08.559 this better, let me try to give you an
+00:18:10.160 example using a house. Okay, let's
+00:18:12.640 assume there's a house. Let's assume
+00:18:14.240 this house is worth $1 million and has
+00:18:16.880 $500,000 of mortgage. Let's also assume
+00:18:20.080 that the house yields $50,000 a year in
+00:18:23.200 gross rent. But after interest on the
+00:18:25.600 mortgages, taxes, and etc., the net rent
+00:18:28.480 is $20,000 a year. Now, in this example,
+00:18:32.400 if you are trying to buy this house and
+00:18:34.160 the bank which provided the mortgage
+00:18:36.000 comes to you and says that they'll roll
+00:18:38.000 over the debt for you so that you can
+00:18:40.160 just keep the mortgage. Basically, you
+00:18:42.000 only have to pay $500,000 to purchase
+00:18:44.480 this house. Now, this $500,000 is the
+00:18:47.760 equity value of the house. Equity value
+00:18:51.200 is basically the amount of money you
+00:18:53.200 have to pay to purchase an asset.
+00:18:55.520 Therefore, the more debt an asset has,
+00:18:58.160 the less equity you have to pay. So,
+00:19:00.960 equity value of this house is $500,000.
+00:19:04.480 However, when you tell your family or
+00:19:06.080 friends that you bought a house and they
+00:19:07.840 ask you what the price of the house was,
+00:19:09.760 you generally won't say that the house
+00:19:11.280 is worth $500,000.
+00:19:13.440 you rather say that you bought a house
+00:19:15.679 which is worth a million dollars. Now
+00:19:18.240 this $1 million is equivalent to the EV.
+00:19:21.919 So basically what I'm trying to say is
+00:19:23.760 that EV represents the value of a
+00:19:26.400 company regardless of how much debt or
+00:19:29.120 cash the asset has at the current
+00:19:31.039 moment. Okay. So in a similar context,
+00:19:34.320 $50,000 of gross rent you get from the
+00:19:36.640 house is equivalent to the EB dah given
+00:19:39.120 that it's what you get before you pay
+00:19:41.200 any interest or taxes on it. Also,
+00:19:44.080 $20,000 of net rent you get from the
+00:19:46.240 house is equivalent to the net income
+00:19:48.400 given that it has already subtracted all
+00:19:50.320 the line items including interest
+00:19:52.559 expense and taxes.
+00:19:54.880 Okay. So if we value this house, this
+00:19:57.360 house has an E evbida of 20 times and
+00:20:00.799 price to earnings ratio of 25 times.
+00:20:04.960 Okay. So hopefully this example gave you
+00:20:07.120 a better idea of what EVA means. Now in
+00:20:10.400 this example, I didn't take into account
+00:20:12.400 of the depreciation and amatization
+00:20:14.559 given it may complicate things in
+00:20:16.320 understanding the basic concept.
+00:20:18.240 However, DNA is a simple metric which
+00:20:20.559 basically deducts any value from an
+00:20:22.400 asset. For example, if you bought a new
+00:20:24.559 laptop for $2,000, after 10 years, if
+00:20:27.840 you try to sell the laptop on eBay, no
+00:20:30.080 one is going to pay this laptop for
+00:20:32.159 $2,000, right? You'll need to
+00:20:34.080 significantly lower the price of the
+00:20:35.679 laptop to sell it. Now, before you
+00:20:38.080 actually sell the laptop, you're not
+00:20:39.679 paying any cash just because the value
+00:20:42.080 of the laptop is decreasing, but the
+00:20:44.159 value of the laptop is decreasing every
+00:20:46.159 day. Now, this is called depreciation.
+00:20:49.360 When you calculate EBIDA, you basically
+00:20:51.360 need to add this depreciation or
+00:20:53.360 amortization on assets to get a better
+00:20:55.520 sense of how much cash the company's
+00:20:57.600 generating every year. Operating income
+00:21:00.240 already deducts a certain part of the
+00:21:02.000 depreciation. So, it is not a good
+00:21:03.760 metric to assess the cash generating
+00:21:05.919 ability of the company. Okay. Now, let's
+00:21:08.559 move on to the third topic on when we
+00:21:11.440 should be focusing on this multiple.
+00:21:13.520 Now, EV multiple can be used for any
+00:21:16.000 companies with the exception of some
+00:21:17.679 very niche industries like banks and
+00:21:19.919 insurance companies. However, let's try
+00:21:22.240 to understand when this multiple can
+00:21:23.760 really be used more meaningfully when
+00:21:25.600 we're investing in public markets. Let's
+00:21:27.919 assume there's a company A. Let's say
+00:21:30.159 that this company's market cap is $5
+00:21:32.000 billion and its operating income is $500
+00:21:34.720 million. Let's also assume that this
+00:21:37.280 company has zero debt and also has
+00:21:39.360 almost no cash. Also, let's assume that
+00:21:42.159 this company has almost no hard assets.
+00:21:45.039 So, there's really nothing being
+00:21:46.640 advertised or depreciated. Basically,
+00:21:49.360 this is a company which has a very
+00:21:51.039 stable balance sheet with no debt and is
+00:21:52.960 super asset light. For this company,
+00:21:55.600 basically its market cap is almost
+00:21:57.679 equivalent if not exactly the same to
+00:21:59.679 the EV and its operating income is
+00:22:01.760 almost the same as EVA. In this case,
+00:22:05.039 EVA is not really useful. Basically, SPE
+00:22:08.799 ratio and EV vita multiple would pretty
+00:22:10.799 much be the same with some difference
+00:22:13.440 taking into account of the taxes.
+00:22:16.000 However, let's assume this company B.
+00:22:18.320 Let's say that this company's market cap
+00:22:20.240 is $2 billion but has operating income
+00:22:22.960 of $100 million and net income of $200
+00:22:26.960 million.
+00:22:28.480 Now, if we try to look at this company
+00:22:30.320 based on PE ratio, we'll have a negative
+00:22:32.400 figure. And if our investment principle
+00:22:34.720 is to invest in low PE ratio companies,
+00:22:37.280 we may just ignore this company as a
+00:22:39.039 whole. However, in some cases, that may
+00:22:41.840 not be a smart decision to make. Let's
+00:22:44.240 assume that we looked at company B's
+00:22:46.000 revenue growth and this company's
+00:22:47.360 growing at around 30% perom.
+00:22:50.480 Now, there's a very high growth and if a
+00:22:52.480 company is recording that strong growth,
+00:22:54.000 it's a company which is worth taking a
+00:22:55.919 look at. we would need to look at the
+00:22:58.000 company's capital structure and looking
+00:22:59.760 at its balance sheet, we realize that
+00:23:01.600 the company has around $2 billion of
+00:23:03.919 debt.
+00:23:05.440 Now, assuming the interest on the debt
+00:23:07.360 is around 5%, their interest would be
+00:23:09.679 around $100 million. Now here looking at
+00:23:13.039 their operating income and net income
+00:23:15.039 given the difference between the two is
+00:23:16.640 around $100 million we can safely assume
+00:23:19.520 that the additional $100 million of loss
+00:23:22.159 from their operating income is almost
+00:23:24.159 entirely coming from their interest
+00:23:25.919 expense. Okay, so we now figured out
+00:23:28.960 where the huge nonoperating loss is
+00:23:31.200 coming from. Now what's really important
+00:23:33.600 here is to figure out where this $2
+00:23:35.440 billion of debt is being used and
+00:23:37.520 whether this debt is being used
+00:23:39.280 efficiently. The situation we want to
+00:23:41.760 avoid is this company using most of the
+00:23:44.000 loans to pay down their interest on the
+00:23:46.000 existing debt which is not a healthy
+00:23:47.840 capital structure. So you look at the
+00:23:50.320 company's assets and realize that the
+00:23:52.240 reason this company has been taking a
+00:23:53.919 lot of debt is to build factories. Now
+00:23:56.559 this company built the factory only
+00:23:58.320 about a year ago and this $2 billion of
+00:24:00.559 debt was almost entirely used to build a
+00:24:02.960 new factory. So at this point you can
+00:24:05.600 make a few conclusions. Number one, the
+00:24:07.919 debt that they have is being used
+00:24:09.440 efficiently as they built a new factory
+00:24:11.200 with the loan. And number two, the new
+00:24:13.679 factory is actually contributing to
+00:24:15.440 their operations considering their
+00:24:16.960 revenue is growing at 30% perom. Number
+00:24:20.240 three, because their factory is
+00:24:21.760 relatively new, they had to spend a lot
+00:24:23.679 of upfront cost with a lot of new
+00:24:25.360 hirings and utility cost, which is why
+00:24:27.600 their operating income is currently
+00:24:29.200 negative. And number four, if their
+00:24:31.279 revenue continues to grow at this pace
+00:24:33.039 with the new factory they built, their
+00:24:35.120 operating income would also continue to
+00:24:37.279 increase. Okay, up to this point, you
+00:24:39.919 can basically conclude that this company
+00:24:41.760 is a good company with good working
+00:24:43.600 strategy with a factory which was built
+00:24:45.679 with the right purpose. Now, the only
+00:24:48.320 thing you need to check here is whether
+00:24:50.000 this company can actually pay the
+00:24:51.679 interest without much trouble. Now, this
+00:24:54.400 is when you can use the evida concept.
+00:24:56.799 Given EVA adds back non-cash expenses
+00:24:59.679 including depreciation and amortization.
+00:25:02.000 It's a metric which can better represent
+00:25:04.159 the cash generating ability of a
+00:25:06.320 company. You look at the company's
+00:25:08.159 depreciation and amortization and
+00:25:10.000 realize that every year this company's
+00:25:12.320 booking around $200 million of DNA with
+00:25:14.960 the new factory as well as the existing
+00:25:17.039 factory which they built around 10 years
+00:25:18.720 ago. Now, if you add this $200 million
+00:25:21.600 on the negative $100 million of
+00:25:23.760 operating income, you have an EBIDA of
+00:25:26.320 100 million. Now, given the company's
+00:25:28.960 annual interest expense is $100 million,
+00:25:31.919 you can assume that the company can most
+00:25:33.840 likely pay off their interest with the
+00:25:35.440 annual cash that they're generating. So,
+00:25:37.679 you can assume that this company will
+00:25:39.279 not go bankrupt or whatever because of
+00:25:41.120 their debt. One caveat here is that when
+00:25:43.919 the market has a very high liquidity
+00:25:45.679 environment with low interest rate and
+00:25:47.520 quantitative easing, you can be more
+00:25:49.440 aggressive with your assumptions. Even
+00:25:51.600 if a company's EB DA is not enough to
+00:25:54.000 pay their interest as long as they're
+00:25:55.679 recording a healthy growth, they should
+00:25:57.679 be able to refinance their debt as money
+00:25:59.600 becomes extremely cheap. Okay, but for
+00:26:01.840 this company B, they have a decent
+00:26:03.440 capital structure which allows them to
+00:26:05.200 pay their interest on time. Okay, so now
+00:26:08.480 you have a good ground to value this
+00:26:10.240 company on a EV beta basis given you can
+00:26:12.320 safely assume that this company will
+00:26:13.760 turn around anytime soon. Now the
+00:26:16.080 company's market cap was $2 billion and
+00:26:18.400 had $2 billion of debt. Assuming the
+00:26:21.200 company has minimal cash, its EV is $4
+00:26:24.159 billion and it EBA is $100 million which
+00:26:27.840 implies an EVA of 40 times. Now 40 times
+00:26:31.600 EVA sounds very high. However, based on
+00:26:34.080 the 30% growth rate which the company's
+00:26:36.159 recording, you can try to extrapolate
+00:26:38.400 the company's future financials and see
+00:26:40.320 what the EVA will be in the next 3 to 5
+00:26:42.880 years. In the next 3 to 5 years,
+00:26:45.200 assuming that the company pays off
+00:26:46.880 around $1 billion of debt and his EBA
+00:26:49.520 triples to around $300 million.
+00:26:51.840 Basically, on today's market cap, his EV
+00:26:54.400 will be $3 billion while his EBA is $300
+00:26:57.200 million, making his EVA 10 times. Now
+00:27:00.880 based on its future expected multiple
+00:27:02.720 you should be able to make a better
+00:27:04.000 decision on whether you should invest in
+00:27:05.840 this company. Okay so to summarize this
+00:27:08.400 is why EVA can be helpful when
+00:27:10.159 investing. Number one even if a company
+00:27:12.640 is going through a huge loss in its net
+00:27:14.720 income if you assess the company's
+00:27:16.880 capital structure and value the company
+00:27:18.559 on an EVA basis you might be able to
+00:27:20.960 spot good investment opportunities
+00:27:22.559 better. Number two EVA multiple allows
+00:27:25.600 you to get a sense of true value of the
+00:27:27.360 company regardless of their capital
+00:27:28.880 structures. For example, companies like
+00:27:31.120 Tesla also experienced a huge net income
+00:27:33.520 loss for almost a decade before turning
+00:27:35.840 positive. If you paid attention to this
+00:27:38.080 valuation metric, you may have spotted
+00:27:40.240 opportunities earlier on. Number three,
+00:27:42.960 if you monitor EVA multiple of a
+00:27:45.039 company, it'll force you to pay
+00:27:46.640 attention to the capital structure and
+00:27:48.320 fundamental business of the company.
+00:27:50.480 Calculating EVB yourself and building
+00:27:52.640 your own thesis around it requires a lot
+00:27:54.720 more work than just grabbing the market
+00:27:56.320 cap and net income and making a single
+00:27:58.320 division which is not really helpful in
+00:27:59.919 getting to know the company better.
+00:28:02.000 Number four, if a company is engaged in
+00:28:04.559 manufacturing or heavy asset business,
+00:28:06.559 this multiple is extremely helpful in
+00:28:08.720 understanding how the future of the
+00:28:10.159 company will be versus just looking at a
+00:28:12.480 PE ratio multiple. Okay, so on the last
+00:28:14.880 topic of how we should value companies
+00:28:16.799 based on this multiple, please refer to
+00:28:18.960 my PE ratio video for further details.
+00:28:21.520 Basically, the way you would value
+00:28:23.679 companies based on this metric would be
+00:28:25.360 very similar to a PE ratio. The only
+00:28:27.679 difference would be this. For companies
+00:28:29.760 which are not recording a high growth,
+00:28:31.760 let's say less than 10% revenue growth,
+00:28:34.559 please don't use forward EVB to compare
+00:28:37.360 the trading multiple versus its peers.
+00:28:40.240 EVA takes into account of the debt
+00:28:42.320 structure of the company which is a
+00:28:43.919 status quo position of the company's
+00:28:45.840 financials. So for a low growth company
+00:28:48.480 it makes more sense to compare against
+00:28:50.559 the peers using a historical EVA.
+00:28:53.840 However, for high growth companies I
+00:28:55.760 would suggest you try to focus more on
+00:28:57.840 comparing the multiple against the peers
+00:28:59.679 using a forward EVB multiple. This is a
+00:29:02.799 debatable point. However, after the
+00:29:05.039 excessive quantitative easing which the
+00:29:06.880 Federal Reserve started adopting,
+00:29:08.720 companies started to adopt aggressive
+00:29:10.640 capital structures in return for growth
+00:29:13.360 which forces us to look at this multiple
+00:29:15.760 on a forward basis as well. Basically, a
+00:29:18.320 lot of companies are willing to expand
+00:29:19.919 rapidly in return for high leverage. So,
+00:29:22.240 we sometimes need to focus on the future
+00:29:24.320 even for this multiple. Okay. So, with
+00:29:26.640 that, I went through all the important
+00:29:28.159 factors when looking at a EVA multiple.
+00:29:30.559 Please keep in mind that understanding
+00:29:32.480 this valuation metric is very important
+00:29:34.559 for you to better understand companies
+00:29:36.640 from a financial position perspective.
+00:29:39.200 So please try to familiarize yourself
+00:29:41.200 with this metric when making investment
+00:29:43.039 decisions. I hope you enjoy the video
+00:29:45.360 and I'll be back with more videos very
+00:29:47.039 soon. Okay, now that we have covered the
+00:29:50.080 two most important valuation metrics, we
+00:29:52.159 now move over to the macro side of
+00:29:54.320 things. The first video is a course on
+00:29:56.480 the Federal Reserve and the key metrics
+00:29:58.320 we need to monitor to get a sense of the
+00:30:00.399 overall liquidity situation of the
+00:30:02.320 market. Okay, here we go.
+00:30:07.840 Hey guys, now I mentioned in my previous
+00:30:10.399 video clips including shorting the
+00:30:12.159 market, investing in NEO and Plug Power,
+00:30:15.440 a lot of my investment thesis revolves
+00:30:17.440 around how the Federal Reserve shifts
+00:30:19.440 its monetary policies. I want to deep
+00:30:22.240 dive into this topic and give you an
+00:30:23.919 idea of how you can also make a lot of
+00:30:26.000 money by just looking at Federal
+00:30:27.600 Reserve's policies. To explain this
+00:30:30.080 topic, we need to familiarize ourselves
+00:30:32.399 with two metrics. Number one, the
+00:30:34.720 Federal Reserve policy rate. As you may
+00:30:37.200 be aware, Fed policy rate is the
+00:30:39.279 interest rate set by the governance of
+00:30:40.880 the Fed and the FOMC. They decide on the
+00:30:43.919 changes of the rate after
+00:30:45.200 recommendations submitted by the
+00:30:46.640 regional Federal Reserve. Now, this Fed
+00:30:48.880 policy rate is important given that it
+00:30:51.120 hugely impacts the borrowing rate of
+00:30:52.960 money. All financial institutions and
+00:30:55.200 companies would price their bonds loans
+00:30:57.520 based on this rate. And even when you're
+00:30:59.600 getting a mortgage loan, this rate will
+00:31:01.360 impact your life. Simply put, this rate
+00:31:04.480 determines how cheap the money is. So,
+00:31:06.720 if the Federal Reserve policy rate is
+00:31:08.399 low, it means money is cheap, given you
+00:31:10.960 don't have to pay much for borrowing
+00:31:12.480 money. And if it is high, it means money
+00:31:14.720 is expensive given you'll be charged
+00:31:16.320 with a higher interest rate. As you can
+00:31:18.640 see in the chart, sometimes the policy
+00:31:20.880 rate goes up and sometimes it goes down.
+00:31:23.760 Generally, when the economy is doing
+00:31:25.360 very good or inflation is high, the Fed
+00:31:28.159 will increase the policy rate to cool
+00:31:29.840 down the economy or inflation. And when
+00:31:32.080 the economy is doing bad, they would
+00:31:33.840 decrease the interest rate to bolster
+00:31:35.520 the economy by providing more liquidity
+00:31:37.440 in the market.
+00:31:39.200 Some examples of the interest rate going
+00:31:40.880 up is in 2008 when Lehman crash happened
+00:31:44.240 and 2020 when the co 19 happened which
+00:31:47.200 forced a lot of companies to shut down
+00:31:48.799 their business. Examples of the interest
+00:31:50.960 rate going up is in 2004 when the
+00:31:53.519 economy was doing very well led by the
+00:31:55.600 lucrative financial system and in 2022
+00:31:58.559 when the inflation was so high that the
+00:32:00.640 Federal Reserve had to intervene to cool
+00:32:03.120 down the purchasing power of consumers.
+00:32:05.279 The next metric we need to look at is
+00:32:07.519 the Federal Reserve balance sheet.
+00:32:09.519 Federal Reserve balance sheet represents
+00:32:11.279 how much assets the Fed has in their
+00:32:13.919 balance sheet which are generally the US
+00:32:15.760 Treasury bonds and mortgage back
+00:32:17.360 securities. When the Fed goes out to the
+00:32:19.840 market and spreads money around to
+00:32:21.440 provide liquidity, they will generally
+00:32:23.279 do that by purchasing bonds in exchange
+00:32:25.760 for cash to the buyers in the market. So
+00:32:28.640 as a result, the Fed will get more bonds
+00:32:30.880 in their balance sheet and the market
+00:32:32.399 would be provided with the cash. In that
+00:32:35.360 case, the Federal Reserve's balance
+00:32:37.039 sheet would increase. And when the Fed
+00:32:39.200 wants to decrease the money supply in
+00:32:40.799 the market, they would either sell the
+00:32:42.559 bonds and assets or just let it mature
+00:32:45.360 and not invest the money received in
+00:32:47.120 return for the matured bonds. In that
+00:32:49.679 case, Federal Reserve balance sheet
+00:32:51.840 would decrease and the market would be
+00:32:53.519 left with less cash. As you can see in
+00:32:55.840 the chart, sometimes the balance sheet
+00:32:57.360 goes up and sometimes it goes down. The
+00:33:00.399 Fed increases balance sheet to provide
+00:33:02.559 more liquidity in the market. Some
+00:33:04.799 examples are in 2008 when the Leman
+00:33:07.200 crash happened and in 2020 when COVID 19
+00:33:10.159 happened. It can also decrease its
+00:33:12.320 balance sheet to cool down the economy.
+00:33:14.480 Some examples are in 2018 and 2019 when
+00:33:17.200 the Fed felt there's too much money in
+00:33:18.880 the market from the quantitative easing
+00:33:21.039 from the Leman crash and 2022 to today
+00:33:24.559 given the Fed wanted to remove some
+00:33:26.080 liquidity in the market post multiple
+00:33:27.919 quantitative easing during the co 19
+00:33:30.080 period. Now to summarize if the Fed
+00:33:33.600 policy rate is low it means more
+00:33:35.840 liquidity. If the Fed policy rate is
+00:33:38.559 high it means less liquidity. If the Fed
+00:33:42.159 balance sheet is increasing, it means
+00:33:44.000 more liquidity. If the Fed balance sheet
+00:33:46.399 is decreasing, it means less liquidity.
+00:33:49.519 So in short, the most liquid period for
+00:33:52.399 the market is when the interest rate is
+00:33:54.080 low and Fed balance sheet is increasing.
+00:33:57.519 And the least liquid period for the
+00:33:59.679 market is when the interest rate is high
+00:34:01.760 and Fed balance sheet is decreasing. Now
+00:34:04.960 if you put that into a 2x two matrix,
+00:34:07.679 you have a chart which looks like this.
+00:34:09.760 You have four quadrants with the two
+00:34:12.079 matrix and depending on where we are
+00:34:14.000 with the Federal Reserve policies, our
+00:34:16.320 strategy should also change. Now
+00:34:18.960 starting from the section A, this is the
+00:34:21.359 time when you need to only focus on
+00:34:23.520 revenue growth. The reason interest rate
+00:34:26.159 is low and balance sheet is increasing
+00:34:28.399 is because the Fed is expecting the
+00:34:30.320 economy to slow down. So they're
+00:34:32.399 providing tons of liquidity into the
+00:34:34.399 market. In this case, all the liquidity
+00:34:37.040 that is provided in the world will be
+00:34:39.440 hunting for growth. Given growth becomes
+00:34:41.918 extremely scars. Also, given there's so
+00:34:45.520 much liquidity and money is cheap, you
+00:34:47.918 don't even need to worry about a
+00:34:49.199 company's profitability. They will
+00:34:51.440 survive somehow using debt and leverage.
+00:34:54.800 This strategy works during times like
+00:34:56.719 this. This is why I decided to invest in
+00:34:59.200 NEO and Plug Power in 2020. They're
+00:35:02.320 recording phenomenal growth despite
+00:35:04.079 having no profitability. Now, skipping
+00:35:06.480 to section D. This period is when the
+00:35:09.280 growth is not as valued as section A
+00:35:11.680 given there's so little liquidity in the
+00:35:13.760 market. In times like this, you will
+00:35:16.560 need to focus on companies with high
+00:35:18.160 profitability and margins. Look at price
+00:35:21.200 to earnings ratio and pick the stocks
+00:35:23.119 that are showing high margins with low
+00:35:24.880 valuation. This is when traditional
+00:35:27.119 sectors like pharmaceuticals, food and
+00:35:29.200 beverage, manufacturing gets a lot of
+00:35:31.280 attention. Now section B and C are a bit
+00:35:34.160 tricky. This section also applies to the
+00:35:36.480 world we're living in right now. Given
+00:35:38.560 interest rate is going lower, but the
+00:35:40.480 Federal Reserve balance sheet is
+00:35:42.320 shrinking. Like we see in section C, in
+00:35:45.359 a period like this, the market would
+00:35:47.440 look for companies which is both the
+00:35:49.040 growth and the profitability. This is
+00:35:51.839 when there's some liquidity in the
+00:35:53.280 market but not enough to focus only on
+00:35:55.280 growth. So people will look for a
+00:35:57.119 company which is both. Now this is why
+00:36:00.160 the tech stocks with both growth and
+00:36:02.560 profitability like Nvidia is getting a
+00:36:04.960 lot of attention. Stocks which are worth
+00:36:07.119 investing become so scarce that the
+00:36:09.200 market would really focus on few stocks
+00:36:11.040 that meets the criteria. Now that was a
+00:36:13.359 quick summary of how you should change
+00:36:14.720 your investment strategies depending on
+00:36:16.320 the Federal Reserve policy changes. Of
+00:36:18.160 course, there are a lot of other factors
+00:36:19.599 which you need to consider, but knowing
+00:36:21.599 what I just told you now will help you
+00:36:23.599 tremendously in making the most
+00:36:25.119 lucrative decisions when the right
+00:36:26.560 timing comes. Okay, now that we have
+00:36:28.800 covered the Federal Reserve, we now move
+00:36:30.560 on to the broader macro indicators. In
+00:36:33.040 order to understand how and when the
+00:36:35.040 Federal Reserve takes certain actions,
+00:36:37.040 we need to monitor the key macro
+00:36:38.640 indicators like unemployment rate,
+00:36:40.800 inflation, and economic activities index
+00:36:43.040 to preemptively make decisions. Okay,
+00:36:46.079 here we go.
+00:36:50.480 Okay, so a lot of you are following my
+00:36:52.800 channel to hear my analysis on the
+00:36:54.320 latest macro trend and the investment
+00:36:55.920 strategies in accordance with the macro
+00:36:57.920 data. During the past months, I have
+00:37:00.400 been uploading macro analysis videos,
+00:37:02.880 which hopefully would have helped you to
+00:37:04.640 make better investment decisions. Now,
+00:37:07.040 through those videos, I showed you how I
+00:37:08.880 analyzed the latest macro trend and used
+00:37:10.880 them to our advantage to predict how the
+00:37:12.800 Federal Reserve may take actions and
+00:37:14.880 further how the market will react in
+00:37:16.800 accordance with the Fed's expected
+00:37:18.320 actions. I also consistently emphasize
+00:37:21.359 that familiarizing yourself with the
+00:37:23.119 macro trend is the most important factor
+00:37:25.280 when it comes to investing in the modern
+00:37:26.960 economic world, especially after the
+00:37:29.119 2008 financial crisis. I'm sure you guys
+00:37:32.160 listen to my videos carefully and try to
+00:37:34.000 learn how you can interpret the macro
+00:37:35.599 data. Now, while I've been uploading
+00:37:38.240 market update videos periodically, a lot
+00:37:40.400 of you guys said in the comment section
+00:37:42.160 that you guys would like to get a very
+00:37:44.079 basic overview on how to read the macro
+00:37:46.320 data. Now, this is a very broad topic
+00:37:49.440 and it took me some time to think how to
+00:37:52.160 do this in the most efficient way
+00:37:53.599 possible. The reason it took me a lot of
+00:37:56.160 thoughts is due to the following. Number
+00:37:58.800 one, every macro data are generally not
+00:38:01.520 independent and somewhat correlated with
+00:38:03.680 each other. What this means is that we
+00:38:05.839 can't just look at each macro data one
+00:38:07.680 by one, but we need to look at them all
+00:38:09.760 together to get a holistic picture of
+00:38:11.520 the current status of the economy.
+00:38:14.400 Number two, there are so many data that
+00:38:16.560 is thrown to the market. It is our job
+00:38:19.040 to pick and choose which data we'll be
+00:38:21.040 focusing on and use them to our
+00:38:23.280 advantage.
+00:38:24.960 Number three, a data can have different
+00:38:27.359 versions of numbers. For example, key
+00:38:29.680 data like unemployment rate or the CPI
+00:38:32.160 will have its officially announced
+00:38:33.760 numbers, but some other institutions may
+00:38:36.160 develop their own methodology of coming
+00:38:38.400 up with their own number for the same
+00:38:39.920 metric. Now, with all those
+00:38:42.079 considerations, I decided to make a
+00:38:43.839 video which is very basic for beginners
+00:38:45.839 with the following caveats. Number one,
+00:38:48.480 I'll focus on explaining the key data
+00:38:50.480 one by one. Now given this is a very
+00:38:53.200 basic introductory video, I'll not take
+00:38:55.359 into account of every implications a
+00:38:57.680 data may have but only focus on that
+00:39:00.079 single number and what implications that
+00:39:02.160 single number may have on the market.
+00:39:04.720 Number two, I'll focus on 10 key data
+00:39:07.200 which I focus on. Now there are millions
+00:39:09.920 of data which we can monitor but
+00:39:11.760 realistically we can't monitor all of
+00:39:13.839 them. However, I can assure you that if
+00:39:16.320 you monitor the 10 key data, which I'll
+00:39:18.400 explain, you'll be covering around 80 to
+00:39:20.400 90% of the macro economy.
+00:39:23.280 Number three, I'll focus on official
+00:39:25.119 data only. Now, the reason I only
+00:39:27.440 monitor the official data is because the
+00:39:29.440 whole reason we do macro analysis is to
+00:39:32.000 predict the Federal Reserve's actions.
+00:39:34.400 Now, the Federal Reserve monitors the
+00:39:36.160 official data. So, while we may monitor
+00:39:38.400 other versions of the data, it won't be
+00:39:40.240 too helpful in forming our view on the
+00:39:42.160 Fed's actions. Therefore, I'll only
+00:39:44.640 focus on the official data.
+00:39:47.680 Number four. Now, in order to leverage
+00:39:49.920 the macro data to your advantage when
+00:39:51.760 investing, please refer to my stock
+00:39:54.000 investing strategy for beginners video.
+00:39:56.320 What I'll be explaining today is just
+00:39:58.000 basic concepts of macro indicators and
+00:40:00.320 how those indicators impact the Federal
+00:40:02.320 Reserve's decisions. If you actually
+00:40:04.480 want to use them to your advantage when
+00:40:06.240 investing, please refer to my other
+00:40:08.400 video for more details. Now having that
+00:40:11.440 said, before we begin, all the macro
+00:40:13.440 data can be found on key economic news
+00:40:15.760 websites such as Yahoo Finance or
+00:40:17.599 Investing.com.
+00:40:19.280 Make sure you turn on the alerts for
+00:40:21.440 economic data from those websites so
+00:40:23.280 that you can get the latest data real
+00:40:24.960 time. Okay, let's begin. Now, when we
+00:40:28.240 look at the economy, the key data which
+00:40:30.240 represents the output of all the
+00:40:32.000 activities that happen in the world
+00:40:33.839 comes down to the GDP. You may remember
+00:40:36.880 that I explained multiple times that a
+00:40:38.720 GDP is composed of four components which
+00:40:42.240 are C, G, I, and X. Now C stands for
+00:40:48.000 consumer spending, G stands for
+00:40:50.480 government spending, I stands for
+00:40:52.800 investments and X stands for net
+00:40:55.599 exports.
+00:40:57.440 Now in recent years, the GDP growth was
+00:41:00.079 somewhat subdued with the growth being
+00:41:01.920 in the range of somewhere between 2% to
+00:41:04.319 3%. However, while the GDP growth is the
+00:41:07.760 outcome of all the activities that
+00:41:09.760 happen in the country, GDP growth itself
+00:41:12.560 doesn't really mean much as it's just a
+00:41:14.480 resulting number. What really matters is
+00:41:17.280 the data that is behind the GDP growth
+00:41:19.920 which are released on a weekly or
+00:41:21.680 monthly basis. Now for those data if I
+00:41:25.119 had to group them in a few categories I
+00:41:27.599 would categorize them into number one
+00:41:29.520 job market related data number two
+00:41:32.079 inflation related data and number three
+00:41:34.800 economic activities related data.
+00:41:38.319 Now the reason I group the data into
+00:41:40.160 these three categories is because these
+00:41:42.319 three topics are what the Federal
+00:41:43.839 Reserve monitors closely. Basically, the
+00:41:46.800 Fed has its own moving targets for each
+00:41:49.359 of these categories of data. And by
+00:41:51.200 forming your view on each of these
+00:41:52.880 components, you'll be in a pretty good
+00:41:54.400 position to predict what actions the
+00:41:56.319 Federal Reserve will take. Okay. Now,
+00:41:58.800 behind each of the categories, there are
+00:42:00.880 10 macro data which are closely monitor.
+00:42:03.760 First, on the job market, the data which
+00:42:06.160 I monitor is number one, unemployment
+00:42:08.560 rate, number two, initial jobless
+00:42:10.960 claims, and number three, non-farm
+00:42:13.119 payrolls.
+00:42:14.800 Next on inflation, the data which I
+00:42:16.640 monitor is number one the yearon-year
+00:42:18.960 CPI, number two the yearon-year core
+00:42:22.000 CPI, and number three the month
+00:42:24.640 overmonth PPI.
+00:42:27.040 Next on the economic activities, the
+00:42:29.119 data which I monitor is number one the
+00:42:31.839 ISM manufacturing PMI, number two the
+00:42:34.880 ISM non-manufacturing PMI, number three
+00:42:38.079 Chicago PMI, and number four consumer
+00:42:40.640 confidence index.
+00:42:43.680 Okay, so as I said previously, I believe
+00:42:46.000 that if you monitor these 10 macro data
+00:42:48.800 periodically, you'll most likely cover
+00:42:50.800 around 80 to 90% of economic activities.
+00:42:54.079 To help you understand the implications
+00:42:55.839 of each data better, let me go into the
+00:42:57.839 data one by one to explain what these
+00:43:00.079 mean.
+00:43:01.599 Okay, first on the unemployment rate.
+00:43:03.760 Now, this is a very straightforward
+00:43:05.440 concept. Basically unemployment rate
+00:43:07.920 measures the percentage of total
+00:43:09.680 unemployed workers who are actively
+00:43:11.920 seeking for job versus the entire
+00:43:14.480 workforce. Now generally the
+00:43:17.200 unemployment rate measures how active
+00:43:19.280 the job market is which is a fundamental
+00:43:21.280 measurement of how the economy is doing.
+00:43:23.839 If the unemployment rate is low this
+00:43:25.839 would mean that companies are generally
+00:43:27.839 doing well with their products being
+00:43:29.440 sold a lot to their consumers which
+00:43:31.680 would provide the companies more room to
+00:43:33.680 hire more people. If the unemployment
+00:43:36.079 rate is high, it would be the vice
+00:43:37.760 versa. Now, the Federal Reserve and the
+00:43:40.400 government generally has its own target
+00:43:42.240 unemployment rate. In recent years, the
+00:43:45.280 Federal Reserve and the government
+00:43:46.720 generally views the economy to be fully
+00:43:49.040 employed if the unemployment rate is as
+00:43:51.680 low as 4%. Now, this 4% number is
+00:43:55.280 subjective, and there's really no strong
+00:43:56.960 rationale or backup to the number, but
+00:43:59.359 all we need to remember is that the Fed
+00:44:01.200 is focusing on this 4% number. Now with
+00:44:04.400 this 4% number as the threshold, the
+00:44:06.720 market and the Fed generally views the
+00:44:08.800 unemployment rate like this. Over 5.5%
+00:44:12.319 unemployment rate means a weak economy.
+00:44:16.079 4 to 5.5% unemployment rate means an
+00:44:18.880 okay economy and under 4% unemployment
+00:44:21.440 rate means a strong economy. Now, for
+00:44:24.640 your information, there's really no hard
+00:44:26.319 rules or formula behind these numbers.
+00:44:29.119 Apart from the 4% target, I'm setting
+00:44:31.119 the high, normal, and the low numbers
+00:44:33.200 based on my interpretation of how the
+00:44:35.440 Fed and the government generally reacts
+00:44:37.200 to the numbers. So, you can have your
+00:44:39.119 own version of the numbers, but just
+00:44:40.800 think of my numbers as a general
+00:44:42.240 guidance. Okay? Now, when the
+00:44:44.319 unemployment rate is high or low, the
+00:44:46.480 Federal Reserve takes actions
+00:44:47.760 accordingly. As I said previously, while
+00:44:50.640 all economic data are correlated and
+00:44:53.040 impacts one another, everything else
+00:44:54.960 being equal, the Federal Reserve will
+00:44:57.040 take expansionary actions when the
+00:44:59.040 unemployment rate is high and take
+00:45:01.040 contractionary measures when the
+00:45:02.720 unemployment rate is low. Now, for your
+00:45:05.599 reference, when I say expansionary, what
+00:45:07.440 I mean is that the Fed will either cut
+00:45:09.680 the rates or conduct a QE. When I say
+00:45:13.280 contractionary, what I mean is that the
+00:45:15.200 Fed will either increase the rates or
+00:45:17.599 conduct a quantitative tapering. Okay.
+00:45:20.720 Now, the reason the Fed would take
+00:45:22.400 expansionary actions if the unemployment
+00:45:24.480 rate is high is because if the
+00:45:26.160 unemployment rate is high, this means
+00:45:28.079 that the economy is weak and corporates
+00:45:30.480 are performing bad. The Fed wants to
+00:45:33.119 bring the unemployment rate to their
+00:45:34.640 target level of 4%. So, they would
+00:45:36.960 reduce the company's financial burdens
+00:45:38.800 by lowering the interest rate. Now when
+00:45:41.280 the unemployment rate is low, the Fed
+00:45:43.200 would think that the economy is
+00:45:44.800 overheated and it may trigger an
+00:45:46.960 inflation. In this case, the Fed would
+00:45:50.000 try to cool down the economy by
+00:45:51.680 increasing the interest rate. Okay, so
+00:45:54.480 that was straightforward. Okay, now
+00:45:56.880 moving on to the initial jobless claims.
+00:45:59.520 Now, initial jobless claims represent
+00:46:01.680 the number of people who filed for
+00:46:03.520 unemployment insurance for the first
+00:46:05.280 time during the past week. This is a
+00:46:07.520 leading indicator of the unemployment
+00:46:09.359 rate and is released on a weekly basis.
+00:46:12.000 A higher number means that more people
+00:46:14.160 are losing jobs and lower number means
+00:46:16.400 that less people are losing jobs. Now,
+00:46:19.839 while the Fed does not have a hard
+00:46:21.760 target for this data as well, based on
+00:46:23.680 the recent trend, you can generally
+00:46:25.200 assume that any number within the range
+00:46:27.040 of 250 to 350,000 to be a normal state.
+00:46:31.040 Anything above 350,000 would be
+00:46:33.839 considered high and anything below
+00:46:36.000 250,000 is considered low. Now, in
+00:46:39.680 recent months, this number was
+00:46:41.359 consistently below 250,000. And this is
+00:46:44.319 why the Fed was assuming that the job
+00:46:46.240 market is too hot to decrease the
+00:46:48.240 interest rate, although they changed
+00:46:50.000 their stance at the Jackson Hole. Now,
+00:46:52.960 just like the unemployment rate, the
+00:46:54.960 Federal Reserve's potential actions are
+00:46:57.040 the same. If more people are losing
+00:46:59.280 jobs, the Fed's actions will be
+00:47:01.200 expansionary. And if less people are
+00:47:03.200 losing jobs, the Fed's actions will be
+00:47:05.520 contractionary.
+00:47:07.280 Now, one thing I'll note at this point
+00:47:08.800 is that as proven by the recent actions
+00:47:10.720 of the Fed, a single data such as
+00:47:13.119 unemployment rate or initial jobless
+00:47:14.880 claims does not determine the Fed's
+00:47:16.960 actions. Even if the job market is
+00:47:19.839 overheated depending on political
+00:47:21.520 situations and other factors in the
+00:47:23.599 economy, the Fed may make different
+00:47:25.680 decisions taking into account of other
+00:47:27.440 circumstances. Please remember this, a
+00:47:30.480 single data does not determine the Fed's
+00:47:32.640 actions, but you need to take a holistic
+00:47:34.800 view. I'm only explaining the basic
+00:47:37.119 concepts of each data. Okay. Now, moving
+00:47:40.319 on to non-farm payrolls. Now the reason
+00:47:42.480 this data is key is because this data
+00:47:44.720 represents the employment situation of
+00:47:46.800 the bulk of the entire industry in the
+00:47:48.800 US. The reason we exclude farming
+00:47:51.760 industry is because number one farming
+00:47:53.920 industry is highly cyclical. So it may
+00:47:56.160 distort the data and number two farming
+00:47:58.720 industry is only a small share of the
+00:48:00.720 total employment which is a minimal
+00:48:02.800 impact on the overall economy. Now, Hen
+00:48:06.160 said while there's no hard rule on this
+00:48:08.079 one as well, you can generally consider
+00:48:10.000 that any number between 50,000 to
+00:48:12.720 250,000 as a normal state. Anything
+00:48:16.319 above 250,000 would be considered high,
+00:48:19.119 representing a strong job market, and
+00:48:21.280 anything below 50,000 would be
+00:48:23.280 considered low, indicating a weak job
+00:48:25.440 market. Now, in this case, the Federal
+00:48:27.839 Reserve's actions would be the other way
+00:48:29.760 around. If the number is high, the Fed
+00:48:32.160 would think that the economy is strong
+00:48:34.000 and would take contractionary measures.
+00:48:36.400 And if the number is low, the Fed would
+00:48:38.319 take expansionary actions.
+00:48:41.440 Okay. Now moving on to CPI. Now CPI is
+00:48:44.640 the core measurement of inflation.
+00:48:47.280 Basically, it measures how much the
+00:48:49.680 price of goods and services increased
+00:48:52.000 for the consumers compared to the last
+00:48:53.680 month or the same month of the last
+00:48:55.599 year. Now, for this metric, while we
+00:48:58.480 need to monitor both the
+00:48:59.680 month-over-month CPI and year-over-year
+00:49:02.160 CPI, if I had to pick one, I'll look at
+00:49:05.359 year-over-year CPI, meaning that I'll
+00:49:07.520 look at the number which compares the
+00:49:09.520 price level of goods and services versus
+00:49:12.160 the same month of last year. The reason
+00:49:15.200 I look at this on a YI basis is because
+00:49:17.599 generally YI CPI removes any volatility
+00:49:20.880 in inflation movements which may be due
+00:49:23.119 to seasonalities or one-off factors.
+00:49:25.839 Also, YI numbers are generally easier to
+00:49:28.800 communicate which is more aligned with
+00:49:30.480 the Fed's target of 2%. Month-over-month
+00:49:34.000 numbers are naturally much smaller given
+00:49:36.960 it compares to the price levels of 1
+00:49:38.720 month before which results in small
+00:49:41.040 numbers like 0.1% or 0.2%. 2%. Which is
+00:49:44.640 a bit harder to comprehend.
+00:49:47.760 Okay. Now, as I explained multiple
+00:49:49.440 times, the Fed has a clear target for
+00:49:51.280 this number, which is 2%. Now, for this
+00:49:54.240 number, if the number is somewhere
+00:49:56.079 around 2%, you can consider inflation to
+00:49:58.800 be in a normal state. If it is over 2%.
+00:50:02.720 It should be considered a high
+00:50:04.079 inflation. And if it is below 2%, it
+00:50:06.880 should be considered a low inflation.
+00:50:09.520 Now a small deviation from the 2% like
+00:50:12.240 10 to 20 basis point may be okay but
+00:50:14.880 generally the Fed wants this number to
+00:50:16.800 be at 2%. Now for the CPI as you may be
+00:50:20.559 well aware the Fed's actions will be
+00:50:22.559 contractionary if the CPI is high and
+00:50:25.359 it'll be expansionary if the CPI is low.
+00:50:28.640 Now again as proven by the recent
+00:50:30.400 actions of the Fed, a single data such
+00:50:33.040 as high CPI does not determine the Fed's
+00:50:35.440 actions as shown in recent months.
+00:50:38.079 Please take this into account. Again,
+00:50:40.240 I'm just laying out a general theory.
+00:50:42.720 Okay. Now, moving on to core CPI. Just
+00:50:45.119 like CPI, I would look at this on a
+00:50:47.119 year-over-year basis. The difference
+00:50:49.200 between CPI and core CPI is that from
+00:50:52.160 the CPI, core CPI removes the price
+00:50:55.040 levels of food and energy. The reason
+00:50:58.160 this metric strips out a food and energy
+00:51:00.240 is because food and energy are the most
+00:51:02.079 volatile items within the components of
+00:51:03.920 CPI. Food and energy are highly
+00:51:06.559 sensitive to external factors like
+00:51:08.480 geopolitical situation or one of natural
+00:51:10.800 disasters and therefore removing these
+00:51:13.359 two items the Fed can get a more
+00:51:15.599 balanced view about the current
+00:51:16.880 inflation level. Now apart from this
+00:51:19.839 point the mechanism is the same as CPI
+00:51:22.319 both on the economic impact and the
+00:51:24.160 Federal Reserve's actions.
+00:51:27.119 Okay. Now moving on to PPI. PPI which
+00:51:30.079 stands for producer price index measures
+00:51:32.400 the price change of manufacturing goods.
+00:51:35.280 Now PPI is a very important metric given
+00:51:38.000 it is a leading indicator for CPI and
+00:51:40.079 core CPI. This metric basically measures
+00:51:43.680 the inflation from the producers
+00:51:45.280 perspective rather than the consumer's
+00:51:47.119 perspective. What this means is that
+00:51:49.520 this metric measures how much the cost
+00:51:52.400 has increased for the companies to
+00:51:54.400 manufacture their goods before selling
+00:51:56.800 it to the consumers. Now generally if
+00:52:00.160 more cost is involved for the companies
+00:52:02.400 to make their goods they'll pass through
+00:52:04.559 the increased costs to the consumers at
+00:52:07.280 some point and therefore we can get a
+00:52:09.359 sense of how CPI will turn out to be
+00:52:11.520 down the road. Now given this is a
+00:52:14.000 leading indicator and needs to be
+00:52:15.599 monitored real time for this metric I
+00:52:18.319 look at it on a month-over-month basis
+00:52:20.400 to get a better sense of how it's moving
+00:52:22.640 compared to the previous month. If you
+00:52:25.200 monitor PPI very closely, you can get a
+00:52:27.359 sense of how the CPI will be in the near
+00:52:29.680 term.
+00:52:31.200 Now, given this is comparing the price
+00:52:33.280 increase versus the previous month, if
+00:52:35.280 the number is in between 0% and 0.2%, it
+00:52:39.440 should be considered an okay inflation.
+00:52:42.000 While anything above or below that
+00:52:44.000 should be considered high and low. Now,
+00:52:47.040 on the economic impact and the Federal
+00:52:48.800 Reserve's actions, it is the same as CPI
+00:52:51.280 and core CPI. Now, before I finish off
+00:52:54.800 on inflation, while I didn't include it
+00:52:57.359 in the list, one other metric you may
+00:52:59.359 want to monitor is the core PCE index.
+00:53:02.240 While it's a very similar metric
+00:53:04.000 compared to the core CPI index, it
+00:53:06.720 covers a broader scope of items which
+00:53:08.800 the companies pay on behalf of the
+00:53:10.480 consumers such as employer paid
+00:53:12.640 healthcare and is also adjusted for
+00:53:14.720 changing consumer patterns. Therefore,
+00:53:17.200 it's a more stable measurement of the
+00:53:18.960 inflation which the Fed prefers to base
+00:53:21.200 their decisions on.
+00:53:23.200 Okay, now moving on to economic
+00:53:24.720 activities. First on the ISM
+00:53:26.559 manufacturing PMI. Now ISM stands for
+00:53:30.160 Institute of Supply Management and PMI
+00:53:33.280 stands for purchasing managers index.
+00:53:36.000 Basically this is a data based on a
+00:53:38.640 monthly survey conducted with executives
+00:53:41.200 in over 3 to 400 manufacturing
+00:53:43.520 companies. Now this is the Fed's
+00:53:46.240 favorite leading indicator of the real
+00:53:48.160 economy as the survey asks questions
+00:53:50.400 around new orders, production quantity
+00:53:53.119 change, employment and inventories.
+00:53:56.640 Basically, it's a survey which tries to
+00:53:59.040 see if the manufacturing industry is
+00:54:01.040 doing well or not. Now you don't need to
+00:54:03.839 know the details around the calculation
+00:54:05.599 of the index but all you need to
+00:54:07.359 remember is that the number 50 means
+00:54:10.000 that the economy is at a neutral state
+00:54:12.400 which implies that there has been no
+00:54:14.559 change to the manufacturing activity
+00:54:16.480 compared to the previous month. Now the
+00:54:18.960 Fed looks at this index to determine how
+00:54:21.599 overheated or underheated the
+00:54:23.440 manufacturing industry is. While the
+00:54:26.079 manufacturing industry is only a small
+00:54:27.839 component of the US economy with around
+00:54:29.920 10 to 12% share, it is still a very
+00:54:32.559 important metric given the manufacturing
+00:54:34.640 industry is generally a leading
+00:54:36.160 indicator of the overall economy.
+00:54:39.119 Now on the economic impact and the
+00:54:40.960 Federal Reserve's actions with the
+00:54:42.640 number 50 being the neutral state, we
+00:54:44.720 can generally assume that any number
+00:54:46.720 over 55 means a strong expansion in the
+00:54:50.240 economy while any number below a 50 is a
+00:54:53.280 contraction in the economy.
+00:54:55.440 Now on the Federal Reserve's actions, if
+00:54:57.440 the number indicates a strong expansion,
+00:54:59.760 the Fed will try to cool down the
+00:55:01.440 economy with a contractionary measure
+00:55:03.280 and vice versa. Okay, moving on to ISM
+00:55:06.480 non-manufacturing PMI. Now, the
+00:55:08.720 non-manufacturing PMI covers the
+00:55:10.880 services sector which makes up about 70%
+00:55:13.760 of the US economy and therefore it is
+00:55:16.480 generally the more important indicator
+00:55:18.319 in understanding the overall growth and
+00:55:20.559 inflation.
+00:55:22.079 services sector generally includes the
+00:55:24.160 likes of education, financial services,
+00:55:26.960 retail, hospitality and etc. Now the
+00:55:30.720 price levels of a services sector are
+00:55:32.880 generally more stickier than the
+00:55:34.480 manufacturing sector given most of the
+00:55:36.480 costs are human labor. Therefore, the
+00:55:39.599 Fed generally monitors this metric
+00:55:41.359 closely to plan their next moves on
+00:55:43.599 defending the inflation. Now the
+00:55:46.160 measurement is generally the same as the
+00:55:48.000 manufacturing PMI and the economic
+00:55:49.920 impact and the Federal Reserve's actions
+00:55:51.599 are the same as well.
+00:55:54.240 Okay, moving on to Chicago PMI. Now,
+00:55:56.799 while this metric is very similar to the
+00:55:58.799 manufacturing PMI, this metric focuses
+00:56:01.280 on the activities in the Midwest region.
+00:56:03.920 Now, the reason we look at this is
+00:56:05.680 because number one, Chicago is a
+00:56:08.160 manufacturing hub in the US, which many
+00:56:10.559 companies supply products nationwide.
+00:56:13.280 And number two, historically, Chicago
+00:56:15.520 PMI has been acting as a leading
+00:56:17.680 indicator for the nationwide
+00:56:19.040 manufacturing PMI.
+00:56:21.119 Basically, Chicago PMI gives us a
+00:56:23.680 preview of how the ISM manufacturing PMI
+00:56:26.319 will look like in the next 1 to two
+00:56:28.160 months given Chicago is the starting
+00:56:30.400 point of the manufacturing activities in
+00:56:32.240 the US. Now, on the economic impact and
+00:56:35.520 the Federal Reserve's actions, it is the
+00:56:37.359 same as other PMI data.
+00:56:40.240 Okay, moving on to consumer confidence
+00:56:42.079 index. Now this index measures the level
+00:56:45.200 of consumer confidence in economic
+00:56:47.119 activity. It is generally a leading
+00:56:49.599 indicator which the Fed monitors to get
+00:56:52.079 a sense of how the inflation and the
+00:56:54.160 unemployment will be in the future. It
+00:56:56.799 is measured through a monthly survey
+00:56:58.640 conducted with 5,000 households in the
+00:57:00.960 US asking about their sentiment towards
+00:57:02.960 their income, employment status and
+00:57:05.280 business conditions. Now, similar to the
+00:57:08.160 PMI index, while we do not need to know
+00:57:10.559 the details of the calculation, all we
+00:57:12.799 need to remember is that the number 100
+00:57:15.119 represents a neutral state. Generally,
+00:57:18.000 if the number is in between 100 and 120
+00:57:21.119 is considered neutral while above 120 is
+00:57:24.480 considered a strong sentiment and below
+00:57:27.040 100 is considered weak. Now, the Federal
+00:57:29.920 Reserve will take actions accordingly.
+00:57:31.920 If the consumers feel that the economy
+00:57:33.520 is very strong, they would take
+00:57:34.960 contractionary measures while they'll
+00:57:37.119 take expansionary measures if the
+00:57:38.799 sentiment is weak.
+00:57:40.960 Okay. So with that I have covered all
+00:57:42.880 the key data which you need to monitor
+00:57:44.480 to understand the economic conditions.
+00:57:46.720 As I said previously, please note the
+00:57:48.559 following. Number one, a single data
+00:57:51.200 does not determine the Fed's actions. As
+00:57:53.599 we have seen very recently, despite low
+00:57:55.680 unemployment and high inflation, the Fed
+00:57:58.160 may decide to lower the rates if
+00:57:59.920 political situation or other economic
+00:58:02.000 data are not aligned. Number two, while
+00:58:05.280 economic indicators are helpful in
+00:58:07.359 understanding the macroeconomy, we
+00:58:09.440 always need to take further steps to
+00:58:11.280 predict the movement of the market. For
+00:58:13.920 example, in 2020 when the COVID news
+00:58:16.480 came out, all the prior economic
+00:58:18.480 indicators became useless as everyone
+00:58:20.720 had to make a fresh set of predictions
+00:58:22.640 on how the indicators will change due to
+00:58:24.960 the pandemic. We always need to monitor
+00:58:27.599 the news and adjust the economic
+00:58:29.280 indicators accordingly on our own.
+00:58:32.000 Number three, while I lay out 10
+00:58:33.839 indicators to monitor, there are
+00:58:35.520 millions of other data which can
+00:58:37.119 suddenly be important at certain times
+00:58:39.520 and one data may be more important than
+00:58:41.760 the other. For example, in recent years,
+00:58:44.480 a CPI has become the most important
+00:58:46.319 economic data. But before 2022, no one
+00:58:49.280 cared about CPI.
+00:58:51.599 Okay, so with that, I hope you now have
+00:58:53.440 a better understanding of reading macro
+00:58:55.040 data. Please note that familiarizing
+00:58:57.200 yourself with the macro data only comes
+00:58:59.040 with time. So please carefully monitor
+00:59:01.599 the market to the extent you can, and
+00:59:03.440 gradually you'll get a better sense at
+00:59:05.359 analyzing the market yourself. I hope
+00:59:08.000 you enjoyed the video, and I'll be back
+00:59:09.440 with more videos very soon. Okay, now
+00:59:12.160 that we have covered the valuation
+00:59:13.520 techniques, the Federal Reserve and the
+00:59:15.520 macro indicators, we now put everything
+00:59:17.839 together to make our own stock
+00:59:19.760 investment framework. I wanted to
+00:59:21.680 emphasize that this investment strategy
+00:59:23.440 is my own strategy which you should only
+00:59:26.160 use as a reference to come up with a
+00:59:28.240 strategy which works for you. Okay, here
+00:59:30.960 we go.
+00:59:35.359 Okay, so after I started this channel, a
+00:59:38.079 lot of you guys asked me to make a video
+00:59:39.760 on stock investment strategy for
+00:59:41.599 beginners, which I've been giving some
+00:59:43.839 thought. Now, the reason I gave it a lot
+00:59:46.079 of thought is because number one, I was
+00:59:48.319 not sure how basic it'll have to be to
+00:59:50.480 make it understandable for everyone
+00:59:52.240 watching while providing some meaningful
+00:59:54.000 information. And number two, there's
+00:59:56.400 really no right or wrong strategy in
+00:59:58.319 stock investing. And number three, there
+01:00:01.359 just too many variables and things to
+01:00:03.359 consider to put into a single video. So
+01:00:06.559 I gave it some thought and decided to
+01:00:08.480 make the video with the following
+01:00:09.920 caveats. Number one, the strategy I'm
+01:00:13.440 about to explain to you is the strategy
+01:00:15.680 which I use. Now what I'm trying to say
+01:00:18.480 is that you may or may not decide to
+01:00:21.760 follow this strategy as I can't really
+01:00:23.680 say that this is the right strategy for
+01:00:25.920 you. Please consider it as a playbook
+01:00:29.599 which you can play around with to
+01:00:31.839 potentially make better decisions when
+01:00:33.440 you're investing. Number two, I'll avoid
+01:00:36.559 explaining every single basics of
+01:00:38.640 terminologies and concepts given they're
+01:00:41.280 either available in my previous videos
+01:00:43.200 or can be easily understood by searching
+01:00:45.520 it yourself. Number three, I don't do
+01:00:49.119 short-term trading. So please assume
+01:00:51.200 that my entire strategy is based on
+01:00:53.200 holding your investment for at least 3
+01:00:55.760 months up to a few years until you reach
+01:00:58.880 a satisfiable return. Now for the people
+01:01:02.160 who are viewing my video for the first
+01:01:03.760 time, I suggest you either watch my
+01:01:05.760 other videos or watch this video very
+01:01:08.400 carefully to fully understand the logic
+01:01:10.559 behind it. After all, I just want all of
+01:01:13.599 you to learn something from this. And
+01:01:15.599 also, if you fully understand the
+01:01:17.280 concept of this video, whatever your
+01:01:19.520 strategy is, I'm sure you can use this
+01:01:21.680 video as your investment playbook to
+01:01:23.599 make modifications as you see fit for
+01:01:25.839 your purposes. Okay, caveats aside,
+01:01:29.040 let's get to it. To explain my
+01:01:30.960 investment strategy, I'll first need to
+01:01:33.040 explain the Federal Reserve chessboard
+01:01:35.040 again. So, I've been repetitively saying
+01:01:37.839 that the most important aspect to
+01:01:39.839 consider when investing, especially post
+01:01:41.920 the global financial crisis era, is
+01:01:44.000 understanding the Federal Reserve's
+01:01:45.520 actions. Now, if any one of you disagree
+01:01:48.559 with this and would prefer investing in
+01:01:50.559 a stock in the super long term, say 10
+01:01:53.200 plus years without taking into account
+01:01:54.960 of the Fed policies, that is fine, too.
+01:01:57.920 In that case, this video might not be
+01:02:00.000 too helpful for you. But the reason I
+01:02:02.000 take into account of the Fed policies is
+01:02:04.160 because while I don't short-term trade,
+01:02:06.799 I do want to maximize my profits by
+01:02:08.720 adjusting my investment portion and
+01:02:10.559 types of stocks by taking profits in a
+01:02:13.599 few months or two years maximum. Okay, I
+01:02:16.480 also explained that there are two major
+01:02:18.480 metrics which we need to monitor with
+01:02:20.480 the first metric being the Federal
+01:02:22.240 Reserve interest rate and the second
+01:02:25.040 metric being the Federal Reserve balance
+01:02:26.960 sheet. Now to recap this table,
+01:02:29.760 basically the Federal Reserve uses these
+01:02:32.000 two tools to control the liquidity in
+01:02:34.319 the market. First on the interest rate,
+01:02:36.640 the Federal Reserve can guide it towards
+01:02:38.480 being low or can guide it towards being
+01:02:40.559 high. Now if the interest rate gets low,
+01:02:43.280 there are two implications which
+01:02:44.960 happens. First is in general the
+01:02:48.400 market's valuation will go up. Now when
+01:02:51.440 I say valuation, I'm referring to the
+01:02:54.000 typical valuation metrics like the price
+01:02:56.319 to earnings ratio and EV over EB
+01:02:58.960 multiple. Now let me try to explain why
+01:03:01.680 this happens. You might remember from my
+01:03:04.079 DCF video which I made as a joke in
+01:03:06.720 trying to value dating that when I
+01:03:08.960 discounted the cash flows, I used a
+01:03:11.280 thing called a whack. Now you may
+01:03:14.240 remember that the WAP is composed of two
+01:03:17.039 things which are cost of debt and cost
+01:03:19.520 of equity. Now simply put cost of debt
+01:03:22.880 refers to the interest rate the company
+01:03:24.720 needs to pay when borrowing money. So if
+01:03:27.920 the interest rate goes lower cost of
+01:03:30.079 debt becomes lower. Also on the cost of
+01:03:33.119 equity side, if the interest rate goes
+01:03:35.920 lower, a core component of the cost of
+01:03:38.480 equity, which is the risk-free rate,
+01:03:40.559 which is essentially the US Treasury
+01:03:42.640 yield, will also go lower. So you can
+01:03:45.520 safely assume that the whack will go
+01:03:47.920 lower if the interest rate goes lower.
+01:03:51.359 Now, you're using this whack to discount
+01:03:53.440 the future cash flows of the company.
+01:03:55.599 Therefore, if the whack goes lower, the
+01:03:58.720 value of the cash flows will go up. To
+01:04:01.440 give you a simple example, if the
+01:04:03.039 company is projected to generate $100 of
+01:04:05.680 cash flow next year and the whack is at
+01:04:08.240 10%. The current value of the $100 would
+01:04:12.559 be $100 divided by 1 + 10% which is
+01:04:17.359 $90.9.
+01:04:19.440 However, if the whack goes down to 8%
+01:04:22.799 the $100 divided by 1 + 8% becomes
+01:04:26.640 $92.6.
+01:04:28.960 Therefore, the future cash flow of the
+01:04:31.039 company will be valued higher, which
+01:04:33.280 leads to a higher valuation of
+01:04:35.359 companies.
+01:04:36.880 If the value of the companies goes
+01:04:38.640 higher, it'll lead to the price to
+01:04:41.039 earnings ratio or EV over EVA multiple
+01:04:43.760 also going higher because the absolute
+01:04:46.160 earnings of the company is fixed while
+01:04:48.240 the value goes higher leading to a
+01:04:50.640 higher multiple. Now the second reason
+01:04:52.880 the company's value goes higher is
+01:04:55.039 because if the interest rate goes low
+01:04:57.119 interest on bonds will also go lower as
+01:04:59.680 well. Now I don't think I need to
+01:05:02.079 explain why that is. Basically lower
+01:05:04.799 interest rate would mean that you'll be
+01:05:06.880 earning less interest on a bond. So what
+01:05:09.760 generally happens is because the bond
+01:05:12.160 interest rate becomes low the investors
+01:05:14.880 will generally avoid investing in the
+01:05:16.640 bond and look for a high yielding asset
+01:05:19.359 like stocks. Therefore, the demand for
+01:05:22.319 stocks would increase leading to a high
+01:05:24.720 valuation of stocks. Okay, so that's the
+01:05:27.920 first thing that happens. The second
+01:05:30.079 thing that happens is if the interest
+01:05:32.160 rate goes low, all companies debt burden
+01:05:35.119 will be significantly reduced. Now, when
+01:05:38.079 companies take on debt or issue bonds,
+01:05:40.720 companies will need to pay interest on
+01:05:42.400 them. Now, if the interest rate goes
+01:05:44.319 low, companies with a lot of debt will
+01:05:46.880 be reduced with the burden of paying
+01:05:48.640 interest on them. And even if companies
+01:05:51.119 don't have any debt, they'll be less
+01:05:53.280 reluctant to take on the debt because
+01:05:55.359 interest rate is very low. Now under
+01:05:58.160 this scenario, which companies do you
+01:06:00.559 think will benefit the most?
+01:06:03.359 Basically, the companies which are
+01:06:05.119 expanding rapidly and growing rapidly
+01:06:07.680 will benefit the most. I mean, companies
+01:06:10.400 which are not growing and only full of
+01:06:12.160 debt will also benefit, but I'll not go
+01:06:14.480 into those companies because we
+01:06:15.760 shouldn't invest in those companies.
+01:06:18.240 Okay, so going back to my point, the
+01:06:20.240 companies which are growing and
+01:06:21.599 expanding with a lot of debt with not
+01:06:24.319 much money because they're not
+01:06:25.359 generating profits will benefit the
+01:06:27.280 most. Okay, so those two are the biggest
+01:06:30.079 things which happens when the interest
+01:06:31.760 rate is low. Now if the interest rate is
+01:06:34.160 high, it's the opposite. Market
+01:06:36.480 valuation will go down because whack
+01:06:38.799 goes higher and there will be some shift
+01:06:41.280 from stock investors to bond investors.
+01:06:44.160 Also, companies with high profit and
+01:06:46.240 cash flow will benefit. Obviously, high
+01:06:48.960 growth companies are always good. So, I
+01:06:51.119 won't put that down here. Okay, so we
+01:06:53.359 covered the interest rate. Let's move
+01:06:54.720 over to the Federal Reserve balance
+01:06:56.240 sheet. Okay, so if the Federal Reserve
+01:06:58.720 balance sheet is increasing, this means
+01:07:01.520 that the Federal Reserve is buying
+01:07:03.359 assets and increasing their balance
+01:07:05.200 sheet. The assets which the Federal
+01:07:07.839 Reserve buys are mostly treasury bonds
+01:07:10.480 and mortgage back securities.
+01:07:12.960 Basically you can think of this scenario
+01:07:14.640 as the Federal Reserve conducting the
+01:07:16.400 quantitative easing. Now under this
+01:07:18.960 scenario I explained in my whether QE
+01:07:21.440 and bailout should be allowed video.
+01:07:23.440 Basically two things happen. First thing
+01:07:26.559 that happens is because the Federal
+01:07:28.400 Reserve purchased so much bonds from
+01:07:30.559 financial institutions. These financial
+01:07:33.119 institutions receive so much cash in
+01:07:35.599 return that they become extremely eager
+01:07:37.839 to lend the cash to people and
+01:07:40.000 corporates. So obviously the first thing
+01:07:42.720 that happens is it becomes extremely
+01:07:44.960 easy to borrow money.
+01:07:47.680 Now as I explained in my previous video
+01:07:49.680 as well because these financial
+01:07:51.680 institutions are so eager to lend money,
+01:07:54.160 money becomes extremely cheap and people
+01:07:56.799 can borrow at a very low borrowing rate.
+01:07:59.359 So that's the next thing that happens.
+01:08:01.359 The borrowing rate becomes very low.
+01:08:04.000 Okay. Now if the Federal Reserve balance
+01:08:05.760 sheet decreases, you can think of it as
+01:08:07.760 a quantitative tapering scenario.
+01:08:10.000 Basically, the Federal Reserve is
+01:08:11.520 draining the money in the market and
+01:08:13.119 sucking it up by either selling the
+01:08:15.119 bonds to financial institutions in
+01:08:17.198 return for cash or just not doing
+01:08:19.198 anything and letting the bonds mature.
+01:08:21.759 So, under this case, it'll be the
+01:08:23.920 opposite of the balance sheet increasing
+01:08:25.679 case. So, basically, it'll be harder to
+01:08:28.080 borrow money and the borrowing rate goes
+01:08:30.000 higher. Okay. Now, up to this point, we
+01:08:33.120 have covered the implications of the
+01:08:34.880 Federal Reserve policies. Now let's move
+01:08:37.920 over to the actual stocks. So let's
+01:08:40.560 assume there are four stocks. Stock A,
+01:08:43.839 stock B, stock C, and stock D.
+01:08:48.238 Okay. So when looking at a stock, while
+01:08:50.640 there are millions of things you should
+01:08:52.158 be looking at, if I were to pick four
+01:08:54.479 major metrics to look at, those would be
+01:08:57.520 number one, revenue growth, number two,
+01:09:00.319 earnings growth, number three, forward
+01:09:02.960 price to earnings ratio, and number
+01:09:05.198 four, debt to EDA ratio.
+01:09:08.640 Okay. Now, please keep in mind that I'm
+01:09:10.560 just giving some examples of stocks just
+01:09:12.399 to give you an idea how you can play
+01:09:14.238 around with the stocks in accordance
+01:09:16.399 with the Federal Reserve environment.
+01:09:18.960 Now, revenue growth is straightforward.
+01:09:21.439 Also, earnings growth is
+01:09:23.359 straightforward. Basically, you just
+01:09:25.439 take next year's earnings and divide it
+01:09:27.679 with last year's earnings and see how
+01:09:29.839 much growth the company is recording. On
+01:09:32.880 the forward price to earnings ratio,
+01:09:34.880 please refer to my price to earnings
+01:09:36.560 ratio video. I just want to emphasize
+01:09:38.640 that for the price to earnings ratio,
+01:09:40.880 you should not look at trailing price to
+01:09:43.198 earnings ratio. For example, right now
+01:09:45.920 it's early 2025. So don't use the price
+01:09:48.719 to earnings ratio by using the 2024
+01:09:50.960 earnings, but use 2025 year end expected
+01:09:54.800 earnings to derive the expected price to
+01:09:57.120 earnings ratio. The reason is number
+01:09:59.920 one, the investors generally care about
+01:10:01.920 what will happen to the company's future
+01:10:03.679 earnings as they're forward-looking. And
+01:10:05.760 number two, historical earnings can be
+01:10:07.840 heavily distorted due to one-off
+01:10:09.679 earnings or losses. Okay, on the debt to
+01:10:12.239 EVA ratio, the only reason I look at
+01:10:14.719 this is because I try to find out how
+01:10:16.560 much leverage the company has. Also, the
+01:10:19.600 level of leverage a company has become
+01:10:22.400 increasingly important given the drastic
+01:10:24.800 monetary and fiscal policies which the
+01:10:26.800 Federal Reserve is adopting these days.
+01:10:29.600 Basically, the level of debt a company
+01:10:31.760 has would drastically determine the
+01:10:34.719 company's valuation level given the
+01:10:36.960 interest rate they pay on the loans and
+01:10:39.199 their ability to refinance the loans can
+01:10:41.760 get significantly easier or challenging
+01:10:44.239 depending on the Federal Reserve policy
+01:10:45.920 environment.
+01:10:47.440 Now, EBIDA is the most representative
+01:10:49.679 metric which the company generates from
+01:10:52.480 its operations as it adds back interest,
+01:10:55.920 taxes and depreciation and amortization.
+01:10:59.040 So, you can just simply think of it as a
+01:11:00.880 free cash flow matrix which the company
+01:11:03.840 generates every year. Now, by looking at
+01:11:06.640 the debt to EVO matrix, you're able to
+01:11:09.120 figure out how many years the company
+01:11:11.120 will take to pay down its debt.
+01:11:14.560 Okay, so starting with company A, let's
+01:11:16.719 assume that company A has revenue growth
+01:11:19.040 of 5%, earnings growth of 5%, price to
+01:11:23.520 earnings ratio of 10x and debt to EVA
+01:11:26.560 ratio of one times. So basically,
+01:11:29.760 company A has humble revenue and
+01:11:32.000 earnings growth, but is trading at a
+01:11:33.679 very low valuation of 10 times price to
+01:11:36.320 earnings ratio and its debt to EBIDA is
+01:11:39.280 at one times, which means the company
+01:11:41.600 has almost no debt. So the company A is
+01:11:45.440 very very very stable company with
+01:11:48.320 little growth and no debt. Okay. For
+01:11:51.199 company B, let's assume that company B
+01:11:53.440 has revenue growth of 10%, earnings
+01:11:56.480 growth of 10%, price to earnings ratio
+01:11:59.679 of 20 times and debt to EDA of three
+01:12:03.520 times. So basically company B has some
+01:12:06.960 growth but it's trading at a slightly
+01:12:09.040 higher valuation of 20 times price to
+01:12:11.440 earnings ratio and its debt to EVA is at
+01:12:14.320 three times which means the company has
+01:12:16.800 some debt. So company B has okay growth
+01:12:20.400 slightly high valuation and some debt.
+01:12:23.760 Okay, for company C, let's assume that
+01:12:25.760 company C has revenue growth of 20%,
+01:12:28.800 earnings growth of 10%, price to
+01:12:31.440 earnings ratio of 25 times and debt to
+01:12:34.400 EBIDA of five times. So basically,
+01:12:37.760 company C has high growth but is trading
+01:12:40.480 at a high valuation of 25 times price to
+01:12:43.280 earnings ratio and its debt to EVA is at
+01:12:46.239 five times which means the company has
+01:12:48.719 high debt. So company C has high growth,
+01:12:52.239 high valuation and high debt.
+01:12:55.760 Okay, for company D, let's assume that
+01:12:57.679 company D has revenue growth of over
+01:13:00.080 50%. It could be 80% or 100% but let's
+01:13:04.640 assume it has a very very high growth
+01:13:07.120 profile. Also, company D is recording
+01:13:10.480 losses. So there's no such thing as an
+01:13:12.960 earnings growth or price to earnings
+01:13:14.800 ratio. Let's also assume that company D
+01:13:17.600 has a huge debt. But given the company
+01:13:20.480 doesn't have any earnings, its IBIDA is
+01:13:22.800 also negative. So debt to IBIDA can't be
+01:13:25.520 calculated. Okay. So let's go back to
+01:13:28.000 the Federal Reserve chessboard to see
+01:13:29.920 which stock we should buy in each of the
+01:13:32.480 periods. So let's start with the fourth
+01:13:34.480 quadrant which is the least liquid
+01:13:36.480 period. Basically the interest rate is
+01:13:39.120 high or getting higher and the Federal
+01:13:41.520 Reserve balance sheet is decreasing.
+01:13:45.199 Basically very little liquidity is in
+01:13:47.760 the market.
+01:13:49.199 Okay. During times like this, in terms
+01:13:52.080 of making the investment, I would
+01:13:53.760 personally not invest over 20% of my
+01:13:56.800 cash or even just sit on the sideline to
+01:13:58.960 observe the market. I would think that
+01:14:01.040 this would be a very risky time to
+01:14:02.800 invest given the stock valuations are
+01:14:04.719 getting lower and getting loans is not
+01:14:06.960 easy for companies as well. But if I had
+01:14:10.560 to choose a stock to invest during this
+01:14:12.719 period, I would choose stock A. Now the
+01:14:16.800 reason I'll choose stock A is because
+01:14:18.719 despite the low growth the company's
+01:14:20.719 recording the low level of leverage
+01:14:23.120 which the company has will keep the
+01:14:24.880 company solvent. Also given the
+01:14:27.440 company's valuation is already very low
+01:14:29.920 at 10 times the increase in the whack
+01:14:33.440 will not impact the company's valuation
+01:14:35.760 that much. Basically if your nominator
+01:14:38.719 is high increase in the denominator will
+01:14:42.000 have a much significant impact in
+01:14:44.080 absolute terms. Now percentage- wise it
+01:14:47.600 may be the same but my observation on
+01:14:49.679 the market is that if a company with
+01:14:51.679 high valuation multiple is impacted by
+01:14:54.320 increasing interest rate it'll trigger
+01:14:56.640 the selloff mentality of the investors
+01:14:58.880 and the stock may experience a huge
+01:15:01.120 drop. So to play safe I'll prefer
+01:15:03.920 investing in stocks like company A. So
+01:15:06.320 let's move on to the third quadrant
+01:15:08.159 which is the in between period.
+01:15:11.199 Basically, the interest rate is low or
+01:15:13.520 getting lower and the Federal Reserve
+01:15:15.600 balance sheet is decreasing. Basically,
+01:15:18.480 there's some liquidity in the market.
+01:15:21.199 Okay. During times like this, for the
+01:15:23.199 investment, I would personally not
+01:15:25.280 invest over 50% of my cash or same as
+01:15:29.280 the fourth quadrant, I'll just sit on
+01:15:31.360 the sideline to observe the market
+01:15:32.880 depending on the circumstances. I think
+01:15:35.360 you will need to invest in stocks quite
+01:15:38.000 selectively during times like this too
+01:15:40.239 given liquidity is still there but not
+01:15:42.800 always there.
+01:15:44.960 Okay, for the stock if I had to choose a
+01:15:47.440 stock to invest during this period I
+01:15:49.360 would choose stock C. Now stock B and
+01:15:52.960 stock C would both work but I would
+01:15:55.040 prefer stock C. The reason I would
+01:15:57.920 prefer stock C is because company C has
+01:16:00.880 high growth which would definitely be
+01:16:03.040 valued in the market but also has high
+01:16:05.920 leverage. Now assuming company C already
+01:16:08.719 has enough debt it needs it'll benefit a
+01:16:11.679 lot from the decreasing interest rate.
+01:16:14.239 Now because it has enough debt, it won't
+01:16:16.640 have to borrow a lot of new money and
+01:16:18.560 just refinance the existing loans. So it
+01:16:21.520 would work even under an environment
+01:16:23.760 when the Federal Reserve balance sheet
+01:16:25.360 is decreasing.
+01:16:27.120 Also while the valuation of company C is
+01:16:29.520 quite high as long as it can maintain
+01:16:31.440 the revenue growth as valuation will be
+01:16:33.600 justified given it low interest rate
+01:16:35.520 environment where the whack is going
+01:16:37.520 lower. Okay. So let's move on to the
+01:16:39.840 second quant which is also the in
+01:16:42.400 between period. Basically the interest
+01:16:45.120 rate is high or getting higher and the
+01:16:47.520 Federal Reserve balance sheet is
+01:16:49.120 increasing. It would be the similar as
+01:16:51.760 the third quadrant but slightly
+01:16:53.920 different in a sense that the interest
+01:16:55.840 rate is high. Okay. During times like
+01:16:58.960 this for the investment same as the
+01:17:01.199 third quadrant I would personally not
+01:17:03.280 invest over 50% of my cash or just sit
+01:17:06.080 on the sideline to observe the market.
+01:17:08.640 Again I will need to invest in stocks
+01:17:10.800 quite selectively during times like this
+01:17:12.800 as well.
+01:17:14.640 Okay. For the stock, if I had to choose
+01:17:16.400 a stock to invest during this period, I
+01:17:18.640 would choose stock B. Now, again, stock
+01:17:22.400 B and C would both work, but I would
+01:17:24.640 prefer stock B. The reason I would
+01:17:27.600 prefer stock B is because company B has
+01:17:30.880 some growth, which is okay, but also has
+01:17:33.600 some leverage. Now, given company B has
+01:17:37.120 some leverage, but not as much as
+01:17:38.719 company C, it should be relatively okay
+01:17:41.199 under a high interest rate environment.
+01:17:43.760 And also while price to earnings ratio
+01:17:46.000 is somewhat high but it is not as high
+01:17:48.719 as company C's. So the impact from the
+01:17:51.120 whack going higher would be relatively
+01:17:53.679 controlled. Okay. Now let's move on to
+01:17:56.080 the final quadrant which is the first
+01:17:58.159 quadrant.
+01:17:59.840 Okay. Now in this quadrant I will super
+01:18:03.600 aggressively invest into the market. I
+01:18:06.880 mean, I'll not only invest 100% of my
+01:18:09.360 cash, but if possible, even take on
+01:18:11.679 loans to invest. Basically, this is a
+01:18:14.880 period where the Federal Reserve is
+01:18:16.640 decreasing the interest rate and
+01:18:18.320 conducting the QE at the same time to
+01:18:20.719 increase its balance sheet. Also, in
+01:18:23.760 terms of the stock to invest, I will
+01:18:25.600 invest in stock D, which is recording
+01:18:28.400 excessive growth with no earnings. Now,
+01:18:31.199 as I said multiple times in my previous
+01:18:32.960 videos, this is the time when the
+01:18:34.960 companies rarely go bankrupt. So, you do
+01:18:38.400 not need to worry about the amount of
+01:18:40.000 debt a company has given they should be
+01:18:42.960 able to either refinance the loan or get
+01:18:45.280 more loan from the bank. Also, the
+01:18:47.600 financing cost is extremely low. So, the
+01:18:49.920 company would not have any issues in
+01:18:51.440 paying the interest with more debt or
+01:18:53.280 equity. Also given the low interest
+01:18:56.239 rate, this is the time when people hunt
+01:18:58.560 desperately for growth. All the money in
+01:19:01.280 the bond market will shift away to
+01:19:02.880 stocks and given there's so much
+01:19:04.400 liquidity, they'll just look for fast
+01:19:06.400 money where the growth can be achieved.
+01:19:09.040 Okay, so invest in company During this
+01:19:11.199 time. But I will make one single caveat
+01:19:13.520 though. For a stock like company D, you
+01:19:17.679 really, really, really need to exit the
+01:19:22.000 investment at the right time. When you
+01:19:24.719 feel like you gained a lot of profit or
+01:19:26.560 when you feel like there's any, and I
+01:19:28.800 mean any signs of the interest rate
+01:19:31.040 going back up or the quantitative easing
+01:19:33.920 ending, you have to sell the stock right
+01:19:36.480 away. Don't get swayed away with the
+01:19:39.360 media or Wall Street bats screaming to
+01:19:41.760 the moon or whatever. just just sell 20%
+01:19:44.800 profit, 50% profit, 100% profit, 200%
+01:19:48.000 profit. These are all great. Just hit
+01:19:50.080 the sell button whenever you see any
+01:19:51.920 signs of any changes happening in the
+01:19:53.920 market. Okay, guys, to wrap up, I'll
+01:19:56.960 note a few things. Please listen
+01:19:58.640 carefully. Number one, a stock with
+01:20:01.440 company D's growth and company A's
+01:20:03.600 valuation and leverage ratio would be
+01:20:05.520 the best in all scenarios. If you can
+01:20:07.679 find a stock like that, go for it.
+01:20:09.520 However, there are not many companies
+01:20:11.040 like that out there. So that's why I'm
+01:20:13.360 giving these illustrative examples with
+01:20:15.920 madeup companies.
+01:20:18.000 Number two, when you pick a stock,
+01:20:20.159 please compare it against other
+01:20:21.760 companies within the same sector. Try to
+01:20:24.480 check whether the company's valuation or
+01:20:26.080 growth is lower or higher versus peer
+01:20:29.440 companies and take that into
+01:20:30.960 consideration when investing. Number
+01:20:33.679 three, don't chase for fast money. The
+01:20:37.199 more you chase it, it'll run away. You
+01:20:40.080 don't have to invest and hold a stock
+01:20:41.679 for 20 years, but at least say bye-bye
+01:20:44.480 to your cash for the next 6 months or
+01:20:46.880 two years when you buy a stock. It may
+01:20:49.040 go down in the short term, but if you
+01:20:50.880 did your work, you have the chance of
+01:20:52.480 succeeding down the road. Okay, guys.
+01:20:54.960 So, this is the end of my investment
+01:20:56.560 strategy video, but now I do want to
+01:20:59.040 emphasize again and please listen to
+01:21:01.520 this. This strategy is my strategy. It
+01:21:05.440 may work for you or may not work for
+01:21:07.199 you. But if you understood my points
+01:21:09.520 correctly, you will learn something from
+01:21:11.920 it and you should be able to use this
+01:21:13.920 information in your own way to make your
+01:21:16.000 own investment decisions. Now, the
+01:21:18.640 reason I made this video is to help you
+01:21:20.960 make better decisions. So, I really hope
+01:21:22.880 all of you guys succeed with your
+01:21:24.560 investments down the road. Thank you,
+01:21:26.800 and I'll be back with more videos very
+01:21:28.640 soon. Okay, now that we have covered the
+01:21:30.960 valuation techniques, the Federal
+01:21:32.480 Reserve, the macro indicators and
+01:21:34.400 investment strategy, we move on to the
+01:21:36.800 right investment mindset we need to have
+01:21:39.040 to succeed in investing. I've seen
+01:21:41.280 plenty of people fail in investing even
+01:21:43.360 when they have decades of experiences in
+01:21:45.600 investment banking, private equity, and
+01:21:47.440 hedge funds. So, I just wanted to
+01:21:49.040 emphasize that everything comes down to
+01:21:50.800 having the right mindset. Okay, here we
+01:21:53.520 go.
+01:21:57.360 Okay, so until today in my videos I
+01:21:59.679 talked a lot about investment tactics,
+01:22:01.440 strategies, valuation theories and
+01:22:03.360 market updates which focuses on the
+01:22:05.040 technical aspects of investing. In my
+01:22:07.120 stock investment strategy for everyone
+01:22:08.719 video, I talked about how you can use
+01:22:10.800 the monetary policies to your advantage
+01:22:12.400 when investing. In my PE ratio explained
+01:22:14.960 video and EV vita explained video, I
+01:22:17.199 talked a lot about the key valuation
+01:22:18.880 theories which are most commonly used
+01:22:20.320 when making investment decisions. Also
+01:22:21.920 in the various market update videos I
+01:22:23.520 talked about the recent events that took
+01:22:25.120 place in the market in detail which can
+01:22:27.199 be helpful in positioning your
+01:22:28.400 investments. Now while I talked about a
+01:22:31.199 lot of the stuff related to finance
+01:22:32.639 investing I mostly focused on technical
+01:22:34.800 aspects of things which are generally
+01:22:36.639 helpful in enhancing your knowledge. Now
+01:22:39.040 however up until today I didn't really
+01:22:41.199 talk about the more important aspect of
+01:22:42.880 investing which is having the right
+01:22:44.480 mindset. Now, I wanted to emphasize that
+01:22:47.360 whatever skills and knowledge you have,
+01:22:49.040 if you don't have the right investment
+01:22:50.400 mindset, you'll most certainly fail. A
+01:22:52.960 lot of you may wonder whether my
+01:22:54.480 colleagues are working in investment
+01:22:56.080 banking and private equity are all super
+01:22:57.840 successful when it comes to personal
+01:22:59.120 investing. But I can tell you with the
+01:23:01.360 utmost certainty that not even half of
+01:23:03.600 them are successful. But at the same
+01:23:05.760 time, I can also assure you that those
+01:23:07.440 guys who work in the industry have the
+01:23:09.280 most in-depth knowledge about finance,
+01:23:11.360 macro, valuation theories, and various
+01:23:13.440 industries. However, I've seen many, and
+01:23:16.560 I repeat, many of them fail in personal
+01:23:18.800 investing miserably. Now, one thing I'll
+01:23:21.199 add is that they do have a higher chance
+01:23:22.880 of doing better versus the people who
+01:23:24.880 have no knowledge at all. However,
+01:23:27.040 nothing is guaranteed. And I've seen
+01:23:28.800 them failing miserably in their own
+01:23:30.639 investing. Now, why is this? The only
+01:23:33.040 one reason why this happens is because
+01:23:34.880 people, regardless of what knowledge you
+01:23:37.040 have or what background you have or what
+01:23:39.440 industry you work in, does not have the
+01:23:41.440 right mindset when it comes to
+01:23:42.800 investing. Now today I wanted to cover
+01:23:44.880 this topic in detail based on my
+01:23:46.560 personal experiences as well as my
+01:23:48.480 observations around me. Okay, let's get
+01:23:51.040 to it. Okay, so when it comes to having
+01:23:53.040 the right mindset for investing, first I
+01:23:55.280 wanted to make some overarching
+01:23:56.880 statements. There are millions of videos
+01:23:58.880 on YouTube or any other social media
+01:24:00.639 channels about having the right mindset
+01:24:02.239 for investing. Now I have a huge issue
+01:24:04.480 with these videos and I think almost all
+01:24:06.639 of the videos are scams because of the
+01:24:08.560 following reasons. Number one, most of
+01:24:10.639 the videos tend to generalize the right
+01:24:12.239 mindset when investing. A lot of the
+01:24:14.159 videos get fixated on a certain mindset
+01:24:16.239 you should have when investing and
+01:24:17.840 forces you to accept having that mindset
+01:24:20.400 as a holy grail. Now, the problem with
+01:24:22.320 this is that what I have come to realize
+01:24:24.639 throughout my life and looking at myself
+01:24:26.400 as well is that for every single one of
+01:24:28.480 you watching this video, the right
+01:24:30.080 mindset you should have is totally
+01:24:31.920 different from one another. I've come to
+01:24:33.679 realize that every single person's
+01:24:35.199 innate character is almost impossible to
+01:24:37.600 be changed. And depending on what kind
+01:24:39.360 of prison you really are, you must find
+01:24:41.280 the right mindset that fits you. Now,
+01:24:43.120 let's think about some general advice
+01:24:44.639 people give to each other. Parents
+01:24:46.880 generally tell their kids that you
+01:24:48.560 should do well in school. Now, if that
+01:24:50.239 was that easy, everyone would only be
+01:24:52.480 getting A grades in school and everyone
+01:24:54.719 would be going to a good college.
+01:24:56.159 However, the world does not work that
+01:24:57.840 way. Also, there are millions of people
+01:24:59.440 in this world who didn't do well in
+01:25:01.280 school but still become successful
+01:25:02.960 entrepreneurs, entertainers, athletes,
+01:25:05.520 salesmen, and etc. who do very well in
+01:25:08.080 their lives. Now if you told the kids
+01:25:09.920 who are doing well in school to drop
+01:25:11.679 what they are doing and try to replicate
+01:25:13.440 the people who are successful despite
+01:25:15.040 not having any college degrees, it may
+01:25:17.440 be tremendously difficult for them to do
+01:25:19.280 so. Also, it would be the case the other
+01:25:21.440 way around as well. So the point I'm
+01:25:23.440 trying to make here is that there are
+01:25:24.800 certain characteristics which people are
+01:25:26.560 born with and we need to embrace it to
+01:25:28.719 find the right investors mindset which
+01:25:30.880 fits each of us. Number two, most of the
+01:25:33.440 videos don't reflect reality. Now I've
+01:25:35.840 seen a lot of videos on YouTube and
+01:25:37.360 other channels referencing the likes of
+01:25:39.360 Warren Buffett's mindset which spans
+01:25:41.199 across almost 70 years and typical DCA
+01:25:44.000 mindset which also spans across decades
+01:25:46.000 of years. Now I wanted to make it clear
+01:25:47.840 that I do believe that having those kind
+01:25:49.679 of mindset are good. But the problem is
+01:25:52.239 that generally people don't set a 50year
+01:25:54.880 or 70-year target and try to invest that
+01:25:57.679 long of a period. The reason this
+01:25:59.840 typically doesn't work is number one,
+01:26:01.760 the speed of asset price going up in the
+01:26:03.920 past 10 years is incomparable to how
+01:26:06.239 fast it went up before then. And
+01:26:08.159 therefore, participating in the market
+01:26:09.840 with the same 100year time span mindset
+01:26:12.320 is very difficult. And number two, given
+01:26:14.639 the high inflation we're experiencing,
+01:26:16.480 there are multiple occasions where
+01:26:18.239 people have to pull their investment out
+01:26:19.760 to fund their day-to-day lives. Okay, so
+01:26:21.840 those were some of the fails I wanted to
+01:26:23.440 share about the existing investors
+01:26:25.120 mindset videos. Okay, so having that
+01:26:27.679 said, how should we approach investing?
+01:26:30.320 So these are some of the thoughts I
+01:26:31.520 wanted to share with you today. Number
+01:26:33.040 one, have your own principle and stick
+01:26:35.760 to the principle. Number two, don't get
+01:26:38.159 swayed away with noise and stick to the
+01:26:40.080 principle. Number three, review your
+01:26:41.840 principle on a regular basis. Number
+01:26:43.760 four, once you invest your money, remove
+01:26:46.080 emotional attachment from the money.
+01:26:48.000 Number five, don't talk to other people
+01:26:50.159 about what you bought or sold. Okay, so
+01:26:52.480 let's go through the points one by one.
+01:26:54.320 Number one, have your own principle and
+01:26:56.400 stick to the principle. So from my
+01:26:58.320 perspective, this is the most important
+01:27:00.000 point when it comes to investing. So as
+01:27:02.159 you may have seen from my previous
+01:27:03.520 videos, there are tens of millions of
+01:27:05.120 ways to invest. You could do long-term
+01:27:06.960 investing, mid-term investing,
+01:27:09.120 short-term investing, scalping, value
+01:27:11.600 investing, narrative investing, options
+01:27:13.920 trading, swing trading, momentum
+01:27:15.920 trading, and etc. Also when it comes to
+01:27:18.320 the securities you invest in, you could
+01:27:20.000 invest in public stocks, private stocks,
+01:27:22.239 bonds, cryptos, FX, commodities and etc.
+01:27:25.679 So there are endless ways which you can
+01:27:27.440 invest your money. Now I can say with a
+01:27:29.280 100% certainty that all of the investing
+01:27:31.360 strategies and securities which I
+01:27:33.040 mentioned will work if you do it the
+01:27:34.800 right way. There are many people who
+01:27:36.480 already succeeded in each of the
+01:27:38.000 investment methodologies and if there's
+01:27:40.000 a case of someone succeeding, you can do
+01:27:42.000 it too. Now the problem is while an
+01:27:44.000 investment strategy may work for
+01:27:45.600 somebody, it doesn't work for everybody.
+01:27:48.239 The reason it doesn't work for everybody
+01:27:49.920 is because each investment strategy
+01:27:51.840 requires certain soft skills and
+01:27:53.679 personalities which are designed to fit
+01:27:55.600 the strategy which you're about to
+01:27:57.120 adopt. For example, long-term investing
+01:27:59.679 requires patience and endurance. Value
+01:28:02.320 investing requires natural instinct on
+01:28:04.719 numbers and industries. And scalping
+01:28:07.360 strategy requires a gifted intuition on
+01:28:09.760 market movements. So depending on what
+01:28:11.520 kind of person you are, there will be an
+01:28:13.600 investment strategy which fits your
+01:28:15.120 personality. Let me give you my example.
+01:28:17.520 When I try to assess myself from an
+01:28:19.199 objective point of view throughout my
+01:28:20.880 life, I made a few conclusions about my
+01:28:23.120 character. A, I'm a person with a day
+01:28:25.199 job and will most likely remain that way
+01:28:27.120 for the foreseeable future. So I can't
+01:28:28.880 be trading stocks all day long. B, I'm a
+01:28:31.840 rather riskaverse person, so speculating
+01:28:34.159 will make me very uncomfortable. See,
+01:28:36.320 I've gotten feedbacks from numerous
+01:28:37.920 people that my strengths are numbers,
+01:28:40.480 patience, and perseverance. Okay. Now,
+01:28:42.800 taking into account of those factors,
+01:28:44.560 I've made the following conclusion about
+01:28:46.080 myself. Number one, short-term trading
+01:28:48.320 is not a good fit for me. So, I need to
+01:28:50.800 trade mid to long-term. Number two,
+01:28:52.960 given my obsession with numbers, I need
+01:28:54.960 to take valuation into consideration.
+01:28:56.960 Number three, to invest with a more
+01:28:58.800 peaceful mindset, I need to follow the
+01:29:00.639 macro closely and time the market
+01:29:02.639 correctly. So based on all those
+01:29:04.239 considerations, I built my own
+01:29:05.679 principles of investing. Now I laid out
+01:29:08.400 my investment strategy in detail in my
+01:29:10.639 stock investment strategy for everyone
+01:29:12.320 video. But just to recap a few key
+01:29:14.639 points. A I invest heavily when the
+01:29:17.360 market is transitioning towards a more
+01:29:18.800 liquid environment. I already
+01:29:20.400 demonstrated to you guys how I do it
+01:29:22.480 when I said that we should buy into the
+01:29:24.480 market in early April of this year. In
+01:29:26.480 April, it was a good time to buy into
+01:29:28.239 the market because number one, interest
+01:29:30.080 rate was showing signs of going down
+01:29:31.600 from the second half of the year. Number
+01:29:33.840 two, valuation level came down to a
+01:29:35.840 reasonable level. And number three, the
+01:29:38.159 government was being pedalier about high
+01:29:40.080 inflation, which gave more comfort for
+01:29:42.000 the market. Okay, moving on to the next
+01:29:43.840 point. B, whatever stock I buy, I try to
+01:29:46.639 build numerical logic. You guys can
+01:29:49.040 refer to my previous investment videos
+01:29:50.800 including Plug Power, NEO, and Nvidia.
+01:29:53.280 But I try to set a clear numerical logic
+01:29:55.199 behind my purchase price and my exit
+01:29:57.360 price. Now when the market is extremely
+01:29:59.120 liquid, I tend to be a lot more
+01:30:00.800 aggressive on valuation by looking at
+01:30:02.480 price to revenue type of multiples. And
+01:30:04.320 when the market is less liquid, I tend
+01:30:06.480 to stick to more traditional valuation
+01:30:08.159 multiples like price to earnings ratio
+01:30:10.080 or EVA ratio. I explained in detail
+01:30:13.040 about the PE ratio and EVB ratios in my
+01:30:15.360 previous videos for your reference as
+01:30:16.800 well. See, I try to hold on to my
+01:30:18.800 investment in the mid to long term. Now,
+01:30:21.120 I generally try to hold my investment
+01:30:22.639 for more than three months at the
+01:30:24.080 minimum. But this is not because I set a
+01:30:26.159 hard rule on how long I'll hold on to my
+01:30:28.960 investment, but it's because it
+01:30:30.719 generally takes time for the market to
+01:30:32.639 reflect my logic in the share price. If
+01:30:35.199 my target price on the stock is 3x the
+01:30:37.360 price I bought, it generally won't reach
+01:30:39.520 that price in a single day. Okay, so
+01:30:41.520 that kind of wraps up my thoughts on my
+01:30:43.280 first investment mindset. Now, moving on
+01:30:45.440 to the second point. Number two, don't
+01:30:47.600 get swayed away with noise and stick to
+01:30:49.360 the principle. Then now what I mean with
+01:30:51.360 this is that when you have formed your
+01:30:53.600 own investment principle stick to it and
+01:30:56.000 don't look elsewhere. Now let me give
+01:30:57.840 you my example. As I told you guys
+01:30:59.600 multiple times I started working from
+01:31:01.440 early 2010s and only started investing
+01:31:03.679 from late 2019. Now the reason I didn't
+01:31:06.159 invest at all for almost 10 years was a
+01:31:08.320 mix of reasons. I needed time to figure
+01:31:10.239 out what kind of person I am and forming
+01:31:12.239 my own investment principle which took
+01:31:13.920 me a lot of time and also I couldn't
+01:31:16.000 spot the right opportunity to invest
+01:31:17.760 based on my investment principle. Now
+01:31:19.600 obviously during those times I saw
+01:31:21.520 plenty of people getting rich with
+01:31:22.880 stocks and cryptos or whatever but I
+01:31:24.960 tried very hard to not get swayed away.
+01:31:27.360 Now even today I see plenty of people
+01:31:29.280 getting rich every day. I see people
+01:31:31.120 getting rich overnight with one huge bet
+01:31:33.040 on options with stocks but I don't care.
+01:31:35.600 I see people making huge exits on angel
+01:31:37.679 investments in private companies but I
+01:31:39.520 don't care. I see people making huge
+01:31:41.120 bets on cryptos and getting rich but I
+01:31:43.040 still don't care. I see people making
+01:31:44.639 money with short-term trading and
+01:31:45.920 scalping but I really don't care. Now
+01:31:48.159 what I know is that the moment I start
+01:31:50.080 looking away from my own principle and
+01:31:52.080 try to follow the path of others who are
+01:31:54.080 making big on the market, I become a
+01:31:56.320 follower who gets dragged into the game
+01:31:58.239 rather than a leader who is consciously
+01:32:00.320 making my own decisions. Now, this is a
+01:32:02.400 huge difference on your mentality when
+01:32:04.080 you're investing. If you guys want to
+01:32:05.440 know what happened when I deviated from
+01:32:07.199 my own investment principle, please
+01:32:08.719 refer to my how I lost $100,000 in one
+01:32:11.600 day video. This was one of the few times
+01:32:13.600 when I got dragged into the game rather
+01:32:15.679 than making my own conscious decision
+01:32:17.600 and the result was that I lost 100K in a
+01:32:20.320 single day. I think this video will be
+01:32:22.320 quite informative for a lot of you guys.
+01:32:24.320 So, please watch the video if you
+01:32:25.679 haven't already. Okay, moving on to the
+01:32:27.440 third point. Number three, review your
+01:32:29.760 principle regularly. Now, the reason I
+01:32:32.000 think this is important is because often
+01:32:33.760 times people forget that they could be
+01:32:36.080 wrong. Now this usually happens to
+01:32:38.639 investors who are relatively new in the
+01:32:40.320 market with less experience and believe
+01:32:42.400 that your own principle is the way to
+01:32:44.159 go. Now the reality is that the market
+01:32:46.400 is a very shrewd animal and your
+01:32:48.400 investment strategy may not work as the
+01:32:50.480 market evolves over time. You need to
+01:32:52.400 test your principle regularly and
+01:32:54.159 thoroughly. And if you think your
+01:32:55.840 investment principle is not working, you
+01:32:58.080 need to be nimble with your approach.
+01:32:59.920 But again, don't shift your investment
+01:33:01.600 principle by listening to other people.
+01:33:03.760 Come up with your own logic and
+01:33:05.520 principles. Otherwise, you'll be dragged
+01:33:07.440 into the game which will most likely
+01:33:09.120 lead to a failure. Number four, once you
+01:33:11.840 invest your money, remove emotional
+01:33:13.600 attachment from the money. Okay, so the
+01:33:15.679 reason I believe this is very important
+01:33:17.440 is because I saw plenty of cases around
+01:33:19.520 me where people involve emotions when
+01:33:21.679 investing and leading themselves to
+01:33:23.199 failures. Now, obviously I know a lot of
+01:33:25.360 colleagues in the hedge fund and private
+01:33:27.040 equity world whose job is to invest.
+01:33:29.360 Now, often times those guys are very
+01:33:31.520 good investors when it comes to their
+01:33:33.040 job and rarely loses money. However, as
+01:33:35.760 I said previously, I saw plenty of guys
+01:33:37.920 being terrible when it comes to personal
+01:33:39.600 investing. And the whole reason they can
+01:33:41.520 be so bad at it is really only because
+01:33:43.840 they involve emotions when they're
+01:33:45.440 investing their own money. Generally,
+01:33:47.440 when you're dealing with other people's
+01:33:48.800 money, you become cold-hearted, very
+01:33:50.960 logical, sticking to the investment
+01:33:52.560 principles of the firm, thoroughly
+01:33:54.560 investigating every price of the
+01:33:56.080 company, and etc. But once they start
+01:33:58.159 investing their own money, they suddenly
+01:34:00.159 start chasing after Nvidia, Tesla,
+01:34:02.400 Bitcoin at the worst time possible. and
+01:34:04.719 exit at the worst time possible losing
+01:34:06.880 huge amount of money. Now why is this?
+01:34:09.760 This is really only because they get
+01:34:11.600 emotions involved with money. They get
+01:34:14.080 impatient, anxious and hottempered when
+01:34:16.800 investing their own money that they
+01:34:18.719 become completely different person.
+01:34:20.560 Okay. So please when you make an
+01:34:22.159 investment please separate your emotions
+01:34:24.480 and just think about your logic and
+01:34:26.080 principles only and after you invest
+01:34:28.480 just consider it someone else's money
+01:34:30.480 like a money you gave to a company for
+01:34:32.560 them to use to make the company better.
+01:34:34.880 Now from this aspect if you're a midto
+01:34:37.360 long-term investor but checking your
+01:34:39.199 brokerage account balance more than
+01:34:40.639 three times a day there's something
+01:34:42.320 wrong here. Okay moving on to the next
+01:34:44.480 point number five don't talk to other
+01:34:46.800 people about what you bought or sold
+01:34:49.040 even on the internet. Okay, so this may
+01:34:51.120 be a controversial point as it may not
+01:34:52.960 apply to everyone, but let me explain.
+01:34:55.760 Throughout my days of investing, I've
+01:34:57.520 come to realize that if I share with
+01:34:59.360 other people on what I bought or sold, I
+01:35:01.920 become extremely agitated and anxious
+01:35:04.480 that often times I find it hard to stick
+01:35:06.719 to my principles. It's kind of like
+01:35:08.320 strongly recommending a restaurant to a
+01:35:10.159 friend and telling him or her to try the
+01:35:12.080 food at the restaurant. If you end up
+01:35:14.320 taking your friend to the restaurant by
+01:35:15.760 recommending it really hard, you may
+01:35:17.760 become a bit anxious about how your
+01:35:19.679 friend may react to the food. Now, if
+01:35:21.760 you went to the restaurant by yourself,
+01:35:23.280 you may have just enjoyed the meal and
+01:35:25.520 finished the meal with a peaceful
+01:35:26.800 mindset. But once you have someone
+01:35:28.480 sitting in front of you who came just
+01:35:30.400 because you recommended it, you may
+01:35:32.320 become a bit anxious about his
+01:35:34.080 reactions. Now, I think it applies the
+01:35:36.320 same to investing as well. If you built
+01:35:38.320 an investment thesis based on your
+01:35:40.000 principles, it's generally more helpful
+01:35:41.760 for you to keep it to yourself. At least
+01:35:43.840 that's how I felt. Okay, so I went
+01:35:46.000 through all the common mindset which I
+01:35:47.440 think are important when investing. Now,
+01:35:49.199 as I say all the time, even the right
+01:35:51.040 investing mindset may vary from a person
+01:35:53.280 to another. So please remember that
+01:35:55.600 these are my principles and mindsets
+01:35:57.440 which I try to stick to. You may have
+01:35:59.600 your own version of it. So just think of
+01:36:01.440 it as a sample guide for you to
+01:36:02.960 consider. Okay, so that's all I wanted
+01:36:04.719 to cover today. I hope you enjoyed the
+01:36:06.320 video and I'll be back with more videos
+01:36:07.840 very soon. Okay, now that we have
+01:36:10.000 covered everything, I wanted to end the
+01:36:11.679 video with a bonus clip on a simplified
+01:36:13.760 way to make money in the stock market.
+01:36:16.000 Remembering all the theories and the
+01:36:17.520 metrics may get tough, so I came up with
+01:36:19.840 a few critical things to monitor to
+01:36:21.840 avoid losing money and maximize your
+01:36:23.920 chances of making money in the market.
+01:36:25.840 Okay, here we go.
+01:36:30.159 Okay, today I wanted to talk about a
+01:36:32.239 general topic about investing and over
+01:36:34.800 the past year I produced some contents
+01:36:36.800 which are focused around the ways to
+01:36:38.719 invest and how to be successful when
+01:36:40.480 investing and a lot of the contents
+01:36:42.960 which I produced in the past were kind
+01:36:44.800 of spread across different topics. So I
+01:36:47.679 wanted to kind of bridge that gap and
+01:36:49.840 come up with a very simplified version
+01:36:51.920 of how to actually make money in the
+01:36:54.880 stock market. Now before I begin, I just
+01:36:57.119 want to let you guys know that there are
+01:36:58.880 three contents in my library which I
+01:37:01.840 believe you should really watch. Now I
+01:37:04.960 think those three contents combined
+01:37:06.880 would give you a generally a good idea
+01:37:09.119 about investing and even for those of
+01:37:11.760 you who are not that familiar with the
+01:37:13.440 technical side of things like how to
+01:37:14.960 value companies and how to do DCFS or
+01:37:17.440 how to come up with valuation metrics or
+01:37:19.520 how to monitor um the trend of the
+01:37:22.719 market. I think those three videos
+01:37:24.480 combined should give you a pretty good
+01:37:25.840 idea of how to successfully invest in
+01:37:29.280 the stock market. And those three videos
+01:37:31.360 are number one, the stock investing
+01:37:33.760 strategy for everyone video, and number
+01:37:35.840 two, macro investing 101 for beginners,
+01:37:38.800 and number three, you'll certainly fail
+01:37:41.119 without the right mindset video. So for
+01:37:43.440 each of the video, for example, for the
+01:37:44.800 stock investing strategy for everyone
+01:37:46.639 video, I talked about how the Federal
+01:37:48.960 Reserve framework impacts the overall
+01:37:51.920 market and within the Federal Reserve
+01:37:54.400 framework, which time you should invest
+01:37:57.440 your money and how much and in which
+01:37:59.679 stocks as well. In the macro investing
+01:38:01.600 101 for beginners video, I go further in
+01:38:04.239 depth into the macro indicators and what
+01:38:07.199 we should monitor and how we should
+01:38:09.119 interpret those data. And number three,
+01:38:12.000 in the most important, you'll certainly
+01:38:14.000 fail without the right mindset video, I
+01:38:15.840 talked about the kind of mindset that
+01:38:17.520 you should have in order to be
+01:38:19.199 successful in investing. And I also
+01:38:20.960 emphasized that, you know, I worked in
+01:38:23.040 investment banking and private equity
+01:38:24.480 for almost 15 years. And even among my
+01:38:26.800 peers, there are plenty of people who
+01:38:28.480 are very well equipped with the
+01:38:30.400 technical knowledge about investing and
+01:38:32.719 about the market. But at the same time,
+01:38:34.480 when it comes to their own investment, a
+01:38:36.320 lot of them fail because they don't have
+01:38:38.080 the right mindset. So before you watch
+01:38:40.480 this video, I really suggest that you go
+01:38:42.239 back and watch those three videos
+01:38:43.840 multiple times to get a sense of, you
+01:38:46.400 know, what a successful investor should
+01:38:48.239 be equipped with in terms of uh the
+01:38:50.159 knowledge of the market. Okay? And um I
+01:38:53.600 also want to let you know that in April
+01:38:56.400 2025, I gave you guys the first buying
+01:38:58.639 call for my video. And in March 2026, uh
+01:39:02.639 which is about a month ago, I also gave
+01:39:04.480 you the second buying call which I
+01:39:06.400 thought uh was a good timing to buy into
+01:39:09.040 the market. And for the investments
+01:39:10.719 which I made uh for the April 2025
+01:39:13.280 investments, I I've I've told you guys
+01:39:15.600 that I'm already up about 75 to 80%. And
+01:39:20.080 for the investment which I made about a
+01:39:22.639 month ago which I allocated between the
+01:39:24.400 MAX 7 stocks and the semiconductor
+01:39:26.320 stocks I'm up by about 20 to 25% 40 to
+01:39:30.159 45% respectively. And in my previous
+01:39:33.040 videos, I talked about the concerns I
+01:39:34.639 have about the market, the fact that
+01:39:36.719 it's rising too fast. And despite all
+01:39:39.600 the red signals which are still
+01:39:40.880 lingering in the market, including the
+01:39:42.400 inflation, the oil price, the the new
+01:39:45.040 Fed chair, the earnings growth
+01:39:46.880 trajectory and everything, and the
+01:39:48.560 valuation as well, but the market is
+01:39:50.560 still going up. So, um, you know, we we
+01:39:53.040 would need to monitor what happens in
+01:39:54.719 the future very carefully. Now that
+01:39:57.280 aside, I just wanted to kind of give you
+01:40:01.360 a very simplified version of how to time
+01:40:04.400 the market correctly and how to actually
+01:40:06.719 make money in the stock market without
+01:40:08.639 going into too much details of the
+01:40:10.159 technical side of things. So, you know,
+01:40:13.040 even if I give you this kind of
+01:40:14.719 guidance, a very simplified one, make
+01:40:16.639 sure you go back and watch my previous
+01:40:18.400 videos as well because that's going into
+01:40:20.560 the more in-depth sides of the things
+01:40:23.199 I'm about to say today. But for those of
+01:40:25.440 you who have a hard time uh
+01:40:28.080 understanding everything which I said in
+01:40:29.440 my previous videos, I think this video
+01:40:31.040 may be helpful for some of you who are
+01:40:32.960 just kind of getting started and who
+01:40:34.560 want to monitor metrics one by one.
+01:40:37.280 Okay. So let's begin. Okay. So to
+01:40:39.840 simplify all the investment strategies
+01:40:41.760 which I laid out during the course of
+01:40:43.760 the past year, um I want to talk about
+01:40:47.840 the investments and the buying calls
+01:40:49.600 which I gave you within the past year.
+01:40:52.960 So one was in April 2025 and the other
+01:40:56.080 one was in March 2026. Now when I told
+01:41:00.480 you guys that I will now buy into the
+01:41:02.560 market, obviously I monitored everything
+01:41:05.119 which I could including the Federal
+01:41:06.800 Reserve sentiment as well as the
+01:41:08.800 geopolitical uh developments as well as
+01:41:12.320 the political situation which was
+01:41:14.800 involving Donald Trump um Scott Bassant
+01:41:18.000 and potentially the new Fed chair coming
+01:41:20.080 in as well. So I've been monitoring
+01:41:23.199 tens and hundreds of metrics before I
+01:41:25.440 actually came up with that decision. But
+01:41:27.760 if you compare the April 2025 decision
+01:41:30.800 which I made and the March 2026 decision
+01:41:33.520 which I made, there are common aspects
+01:41:37.600 and elements which kind of ties in
+01:41:40.880 between the two decisions I made. And I
+01:41:44.000 think there are about five things which
+01:41:47.199 were happening during the both periods.
+01:41:50.480 And I just want to give you a sense of
+01:41:52.239 what those five indicators are and how
+01:41:55.360 you can use it to your advantage. Okay.
+01:41:57.520 So the first one is VIX which is VIX.
+01:42:02.000 Now, if you compare April 2025 and March
+01:42:04.800 2026,
+01:42:06.320 one common thing that was happening
+01:42:08.000 between the two periods was that the VIX
+01:42:11.119 was at over 30. Now, for those of you
+01:42:14.000 who are not familiar with the VIX, it's
+01:42:15.840 basically the CBOE volatility index that
+01:42:18.800 tracks the implied volatility. Now, to
+01:42:21.520 speak in plain English, it basically
+01:42:23.360 means that it measures the volatility of
+01:42:26.480 S&amp;P 500 options over the next 30 days.
+01:42:30.800 And it mathematically prices the fear.
+01:42:33.600 So basically just think of it as if the
+01:42:36.159 VIX is high there are a lot of fear in
+01:42:38.719 the market. Now generally on average
+01:42:41.600 when the market is very calm and it's
+01:42:43.440 generally on an upward trend the VIX
+01:42:45.760 would be in the range of 15 to 20. And
+01:42:48.719 if the market is really optimistic and
+01:42:51.040 has been on a very great trajectory it
+01:42:53.199 could go down as low as 10 or even below
+01:42:55.760 10. And the band of the VIX could be
+01:42:59.119 between single digits, highest single
+01:43:01.520 digits and 20. So the VIX on a daily
+01:43:05.679 basis would make its movements but
+01:43:07.360 generally it would move within the band.
+01:43:09.920 However, when I made my investments and
+01:43:11.760 I when I gave you the buy calls back in
+01:43:14.000 April 2025 and March 2026, the VIX was
+01:43:19.840 at over 30 for both periods. Basically,
+01:43:22.960 it means that the market was trapped in
+01:43:25.119 a very fearful emotion and that kind of
+01:43:28.000 represents what the public was thinking
+01:43:29.600 about the market. Now, the second metric
+01:43:32.159 I wanted to lay out is that for both
+01:43:34.880 periods, the Federal Reserve's outlook
+01:43:37.440 on the interest rate was that the
+01:43:39.440 Federal Reserve interest rate is not on
+01:43:42.159 an upward trajectory. So, basically what
+01:43:44.480 I mean is the Federal Reserve by any
+01:43:46.800 means was not indicating that the
+01:43:48.320 interest rate was going to go up in the
+01:43:50.159 near term. Now, as I've mentioned to you
+01:43:52.880 guys multiple times, the federal funds
+01:43:54.639 rate is basically the most important
+01:43:57.280 metric when it comes to the valuation of
+01:43:59.119 stocks. Given that the Federal Reserve
+01:44:01.280 rate acts as the basis of the discount
+01:44:05.920 rate of the future cash flow of the
+01:44:07.760 companies, if the rate goes higher,
+01:44:10.159 there'll be a higher discount rate that
+01:44:11.840 is applied on the future cash flow of
+01:44:13.440 the companies. So when you discount the
+01:44:15.199 cash flow back to the current moment it
+01:44:17.760 would basically mean that the cash flow
+01:44:19.760 would be smaller when you discount it
+01:44:22.159 back to the present day i.e the
+01:44:24.639 valuation of the stocks and the
+01:44:26.080 potential market cap of the stocks would
+01:44:28.080 also go down. Now on the flip side, if
+01:44:31.440 the interest rate goes lower, that would
+01:44:33.679 mean that the discount rate of the
+01:44:35.840 future cash flow of the companies would
+01:44:38.800 also be bumped up in accordance with the
+01:44:42.480 decrease in the interest rate. So you
+01:44:44.880 can just think of it as if the interest
+01:44:46.960 rate goes down, it's positive for the
+01:44:48.960 valuation of the stocks and when it goes
+01:44:51.199 up, it's negative towards the valuation
+01:44:53.360 of the stocks. So that's the second
+01:44:56.239 metric that you should monitor. And for
+01:44:58.400 both of the periods, it was the case
+01:45:00.320 that the Fed was not indicating in any
+01:45:02.560 way that the interest rate would go up.
+01:45:04.960 Now, in March 2026, based on the dot
+01:45:07.119 plot that was suggested by the Fed, it
+01:45:09.119 was indicating that the interest rate
+01:45:10.800 may stay constant throughout the year.
+01:45:13.199 However, by that it doesn't mean that
+01:45:15.840 the interest rate would go up. And also,
+01:45:18.000 we had the new Fed chair Kevin Worsh who
+01:45:20.080 was coming into the market saying that
+01:45:22.719 the interest rate could be brought down
+01:45:25.360 very quickly. So that was also reflected
+01:45:27.600 in the sentiment of the market. Now the
+01:45:30.400 third metric which I want to mention is
+01:45:32.960 the debt margin i.e the FINRA margin
+01:45:36.639 statistics. Now in both of the periods
+01:45:38.960 the FINRA margin statistics which is
+01:45:40.880 which basically represents the total
+01:45:43.199 debt balances in customer securities
+01:45:45.440 margin accounts i.e. the money borrowed
+01:45:47.840 from brokers to buy stocks was on a
+01:45:50.719 decreasing trend. Now what that means is
+01:45:53.440 that basically there were a lot of
+01:45:55.760 leverage in the market which generally
+01:45:57.679 goes up when the stock market also goes
+01:45:59.840 up has been on a decreasing trend
+01:46:02.320 because the stock has been going down
+01:46:04.239 for at least a certain period of time.
+01:46:07.280 So when the stock goes down there are
+01:46:10.239 people who are deleveraged given that
+01:46:12.159 they get margin calls by the brokers. So
+01:46:14.960 I'd like to say that when you are
+01:46:17.920 looking at the market, the market may go
+01:46:20.480 down. But in order to give you a more
+01:46:24.239 concrete rationale in buying into the
+01:46:27.600 market, what helps is that if the
+01:46:30.320 leverage in the market is also going
+01:46:32.400 down, it gives you a more concrete basis
+01:46:36.719 to buy into the market because the
+01:46:38.960 deleveraging in the stock means that
+01:46:41.360 there are more room for people to
+01:46:43.440 leverage in the future. Now what I will
+01:46:45.600 say is that FINRA's margin statistics
+01:46:48.080 are generally posted on a delayed basis.
+01:46:51.280 So for example the April 2026 margin
+01:46:54.719 data would be released about 3 to 4
+01:46:56.960 weeks after the end of April. So when I
+01:47:00.080 gave you the buying calls back in April
+01:47:01.840 2025
+01:47:03.520 and this time in March 2026, the margin
+01:47:06.880 statistics which I was able to monitor
+01:47:08.639 was about a month before from the time
+01:47:11.199 when I actually gave you guys the buying
+01:47:12.960 call. So in April 2025, I was probably
+01:47:16.239 looking at February 2025 data because it
+01:47:19.600 was in early April. And in March 2026,
+01:47:23.199 given it was late March, I was also
+01:47:25.840 looking at about February 2026 margin
+01:47:28.239 data. For both of the periods, I was
+01:47:30.400 able to see one month of deleveraging on
+01:47:33.360 the data. What it means is that in April
+01:47:35.920 2025, I was probably monitoring the
+01:47:39.360 February 2025 data because I gave you
+01:47:42.480 guys the buying call in early April. So
+01:47:44.639 the data which I was able to see was in
+01:47:47.119 was as of February 2025 and I saw that
+01:47:51.600 from January 2025 moving into February
+01:47:54.719 2025 there was a decrease in the margin
+01:47:57.119 balance. Also this time in March 2026
+01:48:01.040 when I was giving you guys the blind
+01:48:02.400 call I was able to see that the February
+01:48:05.199 data which was already released
+01:48:08.159 suggested that moving in from January to
+01:48:11.199 February there was a decrease in the
+01:48:13.600 margin balance. Okay. When you see that
+01:48:16.320 the margin has been on a downward
+01:48:18.080 trajectory it suggests two things.
+01:48:20.639 Number one, the market is deleveraging,
+01:48:22.800 which means that the market has been
+01:48:24.320 falling for at least one month or almost
+01:48:27.440 a month. And number two, if you've been
+01:48:29.679 seeing the realtime market also falling
+01:48:32.239 within that respective month, i.e. April
+01:48:34.639 2025 and March 2026, it also suggests
+01:48:37.920 that there's a pretty high chance that
+01:48:39.840 there has been further deleveraging in
+01:48:41.920 the market. So you could monitor that on
+01:48:44.719 FINRA website if you search FINRA margin
+01:48:47.520 statistics on Google. Now the fourth
+01:48:49.600 area which I wanted to mention is that
+01:48:51.360 both of the times there were clear
+01:48:53.440 leading sector in both of the cases. So
+01:48:56.400 basically what I mean is that in order
+01:48:58.080 for the market to go up and in order for
+01:49:00.639 the market to have the power and the
+01:49:02.480 energy to go up in the future it
+01:49:04.719 generally requires a thematic engine to
+01:49:07.040 attract institutional capital. Now in
+01:49:09.679 both of the cases it was more so in
+01:49:12.400 April 2025 that it was more of the max 7
+01:49:15.600 stocks and in March 2026 it was more
+01:49:19.280 towards the semiconductor stocks and
+01:49:21.280 that's the reason why I decided to
+01:49:22.719 invest in those two themes back in April
+01:49:27.600 2025 and this time as well. Now the
+01:49:30.400 fifth area which I wanted to mention is
+01:49:32.239 that now for those leading sectors that
+01:49:35.679 leading sectors earnings profile needs
+01:49:37.679 to be on an upward trajectory. Now the
+01:49:40.560 leading companies must provide their
+01:49:42.880 dominance via the actual audited
+01:49:45.440 financials
+01:49:46.960 and if they beat the EPS and the revenue
+01:49:49.360 estimates during a macro panic it
+01:49:51.520 confirms that the underlying business
+01:49:53.040 model is insulated from the broader
+01:49:55.040 economic fear which means that if the
+01:49:57.679 fear goes away there's a very high
+01:50:00.080 chance for these leading sectors to be
+01:50:01.920 on an upward trajectory again. Okay. So
+01:50:04.320 those are the five metrics which I
+01:50:05.679 suggest that you monitor um every day in
+01:50:08.000 order to gauge the timing of buying into
+01:50:10.639 the market and I do the same as well.
+01:50:12.880 Obviously there are hundreds and
+01:50:14.320 millions of other data which I monitor
+01:50:15.920 on a regular basis. But that aside, if
+01:50:18.320 you monitor these five metrics and try
+01:50:20.880 to gauge the timing when all these five
+01:50:23.760 metrics actually checks the box, you'll
+01:50:26.080 almost certainly not lose money in the
+01:50:28.800 market. Okay, so that's that. Now, one
+01:50:31.520 thing I'll say though is if there's a
+01:50:34.960 specific time within your investment
+01:50:37.520 horizon where all those five boxes are
+01:50:39.760 checked out, I would say that the
+01:50:42.800 probability of you making money is about
+01:50:45.520 80 to 85%. Now, why is it not 100%.
+01:50:50.400 And for example, 80 to 85% chances is a
+01:50:53.760 really high probability. And generally
+01:50:57.040 if those five boxes are checked out,
+01:50:59.040 especially after 2008 when the Fed
+01:51:01.280 adopted the quantitative easing, you
+01:51:03.760 should be able to make money most of the
+01:51:06.239 times when those five conditions are
+01:51:08.159 met. For example, let's think about some
+01:51:10.080 times when all those five metrics were
+01:51:11.920 actually satisfied. If you go back to
+01:51:13.600 1997 during the Asia financial crisis
+01:51:15.840 era, all those five conditions were met
+01:51:18.239 and after a pretty big correction in the
+01:51:22.000 market, the market rebounded. So that's
+01:51:24.480 one of the times when when you're able
+01:51:26.960 to make money monitoring those five
+01:51:28.480 metrics. And also in 2011 when there was
+01:51:30.800 a euro crisis and US downgrade the VIX
+01:51:34.320 went up to almost 50 and the Fed
+01:51:38.400 maintained the zero interest rate policy
+01:51:40.639 that time as well. If you bought into
+01:51:42.800 the market at the right time, you would
+01:51:44.320 have made a lot of money. It also
+01:51:45.840 happened in 2018 as well when Powell
+01:51:48.480 suddenly decided to raise the rates
+01:51:50.080 which panicked the market. However,
+01:51:51.920 after some time market also recovered
+01:51:54.639 after VIX spiking to almost 35 or over
+01:51:58.000 35 to almost 40. It also happened in
+01:52:01.280 2020 during the COVID crash. So during
+01:52:03.920 2020 the VIX went up to almost as high
+01:52:06.400 as 83 but then when the Fed decided to
+01:52:09.679 pivot the market recovered very quickly
+01:52:12.080 and also there were leading industries
+01:52:13.679 which were mainly focused towards the
+01:52:15.440 tech industry. It also happened during
+01:52:18.239 the two periods which I just mentioned
+01:52:19.840 which is April 2025 and March 2026. For
+01:52:23.440 both of the periods the VIX was at over
+01:52:26.960 30. The Fed was not increasing the
+01:52:29.679 interest rate. There were there was
+01:52:31.840 deleveraging happening in the market and
+01:52:34.480 there were leading industries which were
+01:52:38.080 predominantly leading the market upwards
+01:52:40.639 and also those leading industries were
+01:52:43.280 recording healthy EPS and revenue beats
+01:52:47.199 versus the consensus. So 80 to 85% of
+01:52:50.080 the times I would say that this strategy
+01:52:52.639 would work. Now what about the other 15
+01:52:55.599 to 20%.
+01:52:57.360 Now the reason I give 15 to 20% of room
+01:53:00.880 um is because of the fact that there are
+01:53:04.320 certain times when there are systemic
+01:53:06.560 imbalances in the market. Now these are
+01:53:08.960 the times when there's so much fear in
+01:53:11.760 the market and they're leading
+01:53:13.679 industries and the industries are
+01:53:16.800 recording a healthy growth and also the
+01:53:19.199 Fed is posing the interest rate hike or
+01:53:21.440 even aggressively decreasing the
+01:53:23.040 interest rate but there is so much panic
+01:53:24.960 in the market that the systemic
+01:53:26.800 imbalance is causing the market to go
+01:53:28.639 down and down and down even further from
+01:53:31.599 the previous highs. Let me give you some
+01:53:34.080 examples. For example, in 2000 to 2001
+01:53:37.199 during the dotcom buzz, the model
+01:53:40.320 basically failed because of the
+01:53:42.000 fundamentals of the leading sector were
+01:53:43.920 completely broken. Now, when there's a
+01:53:46.560 situation where the market has been
+01:53:48.480 driving upwards due to one or two very
+01:53:52.400 nient sectors, it could cause a
+01:53:55.199 significant crash if the fundamental
+01:53:58.080 trust in the industry goes away. Also,
+01:54:01.360 if there were significant leverage that
+01:54:03.840 were adopted into the market in order to
+01:54:06.880 buy into those stocks, the power of the
+01:54:08.960 deleveraging and the speed of the
+01:54:10.480 deleveraging may not be able to be
+01:54:12.719 caught up with the Fed which is also
+01:54:15.520 decreasing the interest rate at the same
+01:54:17.199 time. So basically what I mean is if
+01:54:19.440 there's too much leverage which is
+01:54:21.199 concentrated in a few sectors which is
+01:54:24.080 not generating meaningful earnings which
+01:54:26.239 basically breaks the trust within
+01:54:27.840 everybody's mind the deleveraging may
+01:54:30.880 take place in a manner which the Fed
+01:54:34.800 cannot intervene to stop the market
+01:54:37.760 psychology from fundamentally breaking.
+01:54:40.639 So from 2000 to 2001 was a
+01:54:44.080 representative period when the VEX was
+01:54:47.199 obviously spiking high and the Fed was
+01:54:49.920 aggressively cutting the rates from
+01:54:52.400 January 2021 and the Fed was cutting the
+01:54:55.119 interest rate from almost 6.5% to 1.75%.
+01:54:59.520 The margin debt plunged from almost $300
+01:55:03.440 billion to 140 billion. So basically
+01:55:06.960 what happened was the clear leaders
+01:55:08.880 posted catastrophic earnings misses
+01:55:11.599 which fundamentally broke the trust in
+01:55:13.599 everybody's mind. So the deleveraging
+01:55:15.679 happened so fast that the Fed decreasing
+01:55:18.639 the interest rate was not playing any
+01:55:22.400 role in the market. The Fed just had to
+01:55:24.960 watch the market crash and there was
+01:55:26.880 nothing they could do. Now the
+01:55:28.560 fundamental reason this happens is as I
+01:55:30.800 explained in my is AI a bubble video
+01:55:33.280 companies like Cisco saw micros
+01:55:35.040 systemystems and Yahoo saw revenue
+01:55:36.960 growth evaporate rate cuts couldn't save
+01:55:39.599 the companies trading at 150 times price
+01:55:42.400 to earnings with deteriorating cash
+01:55:44.480 flows. So if there was a huge bubble in
+01:55:47.679 the market which is which has gone out
+01:55:50.880 of the fat's control this may cause a
+01:55:53.599 systemic imbalance which even when the
+01:55:56.800 five conditions are met the market would
+01:55:59.199 still be on a freeall. Now the second
+01:56:01.520 example I want to give you is the
+01:56:03.679 accounting scandals in 2002. So this is
+01:56:06.639 when the trust collapses. So basically
+01:56:09.679 so during that period all the five boxes
+01:56:11.679 were checked out. For example the VIX
+01:56:13.679 was at over 40. The Fed was at 1.75% so
+01:56:17.280 they were not on an upward trajectory
+01:56:19.679 with the interest rate and the margin
+01:56:21.520 was dissipating and there were a clear
+01:56:24.080 sector leaders including the financials
+01:56:26.239 and telecoms which were reporting strong
+01:56:28.400 earnings. However, when the market found
+01:56:30.960 out that the earnings were literally
+01:56:32.719 fabricated the system the market
+01:56:35.199 panicked to the extent where no one
+01:56:37.280 could save the market. The systemic
+01:56:39.199 fraud of Enron, Worldcom and Tao
+01:56:41.760 basically broke investors trust in SEC
+01:56:44.320 filings. So if you cannot trust the
+01:56:48.320 fifth metric which is the strong
+01:56:49.920 earnings growth, the model is void. So
+01:56:52.560 basically the market sank to lower lows
+01:56:54.880 until October 2002 which which means
+01:56:57.280 that the market was on a freeall for
+01:56:59.040 almost half a year. Now the other
+01:57:01.040 example I want to give you is the great
+01:57:02.800 financial crisis in 2008. So basically
+01:57:06.800 this was an ultimate systemic liquidity
+01:57:09.280 failure. So all five boxes were checked
+01:57:12.080 out in March 2008. But that also created
+01:57:16.480 a massive bull trap. So if you break
+01:57:19.199 down the metrics, the VIX basically
+01:57:21.280 skyrocketed. The FET was aggressively
+01:57:23.599 cutting the rates. The margin debt was
+01:57:25.760 unwinding. Energy and basic materials
+01:57:27.920 were the undisputed market leaders. And
+01:57:30.080 Exmo Mobile was printing record
+01:57:31.920 expectation beating profits. However,
+01:57:34.800 this also caused a systemic failure
+01:57:36.960 because the commercial banking systems
+01:57:39.040 toxic MBS hadn't fully detonated even
+01:57:42.400 though the Fed cut rates bank stop
+01:57:44.239 lending to each other. If the
+01:57:46.400 interbanking lending system fails,
+01:57:48.560 there's going to be a huge liquidity as
+01:57:51.040 as well as a credit crunch in the market
+01:57:53.040 which could basically freeze everything.
+01:57:55.679 And when everything is frozen and
+01:57:57.920 there's no credit in the market, even if
+01:58:00.000 the Fed continuously injects money and
+01:58:02.239 gives message to the whole world that
+01:58:04.639 everything's going to be okay, nothing
+01:58:06.560 works because no one is willing to lend
+01:58:09.040 the money to each other. So when there's
+01:58:11.040 a credit crunch and a significant
+01:58:13.360 failure of derivatives or off the book
+01:58:16.800 securities which nobody knew about or
+01:58:20.239 not everybody knew about this could
+01:58:22.000 cause a huge systemic failure which
+01:58:25.280 could ultimately impact the market to a
+01:58:28.000 near irreoverable level. Now the other
+01:58:30.480 example I want to give you is 2022. So
+01:58:33.119 back in 2022 this was a trap which the
+01:58:36.639 Fed set themselves. So basically the
+01:58:39.199 inflation was skyrocketing but the Fed
+01:58:41.520 has been telling the market that this is
+01:58:43.199 a transitory inflation for almost a year
+01:58:46.719 which basically gave a very limited time
+01:58:49.360 for the Fed to react to the inflation
+01:58:51.520 itself which ended up lingering in the
+01:58:53.440 market for such a long time. So when the
+01:58:56.000 Fed gives a wrong message to the market
+01:58:58.639 on a very significantly important data
+01:59:01.679 this could lead to a longlasting fall in
+01:59:05.040 the market just like what happened in
+01:59:06.719 2022. So in order to avoid the 15 to 20%
+01:59:09.840 chance of falling into the bull trap, we
+01:59:12.320 also need to monitor a few more things.
+01:59:14.480 Number one, the ultimate thing that we
+01:59:16.239 need to monitor is the credit in the
+01:59:18.719 market. What I mean by credit is
+01:59:21.679 measured through a thing called a credit
+01:59:23.840 spread, i.e. the Bank of America US high
+01:59:26.639 yield index spread. Now what this is is
+01:59:29.360 the extra premium of the yield which the
+01:59:32.400 smaller companies or junkrated
+01:59:34.639 corporations must pay over the US
+01:59:37.199 treasuries risk-f free yield to borrow
+01:59:39.679 money. For example, if there's a huge
+01:59:42.159 company which is making so much money
+01:59:44.239 which which doesn't even need to borrow
+01:59:45.760 any money. If this company goes to the
+01:59:47.520 bank and tries to borrow the money, this
+01:59:49.199 company should be able to borrow at a
+01:59:50.800 very low rate. However, if there's a
+01:59:52.719 small corporation which wants to borrow
+01:59:54.880 money, if this company which is not
+01:59:57.599 performing that well goes to the bank,
+01:59:59.440 this company will have to pay a huge
+02:00:01.520 interest rate. Now the gap between this
+02:00:04.480 huge company's interest rate and the
+02:00:06.320 small corporation's interest rate which
+02:00:08.800 which both of them pay is the gap which
+02:00:11.280 we need to monitor and that is measured
+02:00:14.320 through a thing called a credit spread.
+02:00:16.639 Now generally this credit spread can go
+02:00:19.520 up to almost 8 to 10%. Basically the
+02:00:23.199 small corporations with junk ratings can
+02:00:25.520 pay almost 8 to 10% premium versus the
+02:00:28.639 risk-free rate. However, when there's a
+02:00:30.639 credit crunch, what happens is these
+02:00:33.520 junk companies has to pay 15% or 20%
+02:00:38.080 premium versus the risk-free rate. which
+02:00:40.639 basically means that all these smaller
+02:00:42.239 companies are on the verge of going
+02:00:43.840 bankrupt because they're being squeezed
+02:00:45.760 with the high interest rate. Now when
+02:00:48.000 there's less credit in the market and
+02:00:49.840 when the market is suffering from a
+02:00:51.920 credit freeze, these companies will not
+02:00:54.880 be able to borrow money and all these
+02:00:56.800 companies will go bankrupt which means
+02:00:58.639 that there will be a lot more
+02:00:59.840 unemployment which would lead to a less
+02:01:02.400 active economic activity which could
+02:01:04.400 lead to a unfavorable macroeconomic data
+02:01:07.840 which could lead to a further drop in
+02:01:09.679 the market. So this is a metric that we
+02:01:12.560 need to monitor. Now to give you an
+02:01:14.239 example back in 2020 after the COVID era
+02:01:16.880 when the Fed acted very fast to decrease
+02:01:19.920 the interest rate to almost zero and
+02:01:22.239 started pouring liquidity into the
+02:01:24.159 market. This spread despite the economic
+02:01:28.239 challenge which the whole world was
+02:01:29.760 facing because of so much liquidity in
+02:01:31.760 the market. Even these junk rated
+02:01:33.599 companies were able to borrow money at a
+02:01:35.440 very low rate. So basically how the Fed
+02:01:39.520 acts in response to certain economic
+02:01:42.400 challenges that they face could impact
+02:01:44.239 the market's liquidity which could in
+02:01:46.000 turn also impact the credit situation in
+02:01:49.520 the market. But there are certain
+02:01:51.440 circumstances as I said in my previous
+02:01:53.920 examples where even if the Fed is
+02:01:56.000 injecting liquidity and lowering the
+02:01:57.599 interest rate, there could be cases
+02:01:59.119 where the systemic imbalance is so huge
+02:02:01.840 that even the Fed's actions cannot save
+02:02:03.840 the market. So those are the situations
+02:02:05.520 where we need to look out for by
+02:02:08.000 monitoring the credit spreads and also
+02:02:10.320 the second thing that we need to monitor
+02:02:11.920 is the inflation. Now one thing I'll say
+02:02:14.639 is that the five metric strategy works
+02:02:18.159 when the Fed is actively involved in the
+02:02:20.400 market. Basically the Fed is trying to
+02:02:22.719 decrease the interest rate and they're
+02:02:24.080 trying to inject as much liquidity as
+02:02:26.239 they can into the market. That is the
+02:02:28.080 fundamental basis of the market
+02:02:29.599 rebounding. If the Fed doesn't do
+02:02:31.440 anything, we could go back to the Great
+02:02:33.679 Depression era when there was so much
+02:02:35.840 deleveraging happening in the market.
+02:02:37.920 But if the Fed does nothing, the market
+02:02:39.920 will just continue to go down and down
+02:02:41.599 and down leading to a decades of uh
+02:02:45.599 economic depression. So the fundamental
+02:02:48.080 assumption here is that Fed is going to
+02:02:50.159 be actively involved in the market to
+02:02:51.840 save the market's credit. However, when
+02:02:55.119 the inflation is high, there's nothing
+02:02:57.280 the Fed can do. One example is back in
+02:03:00.159 1973 when the Fed had to just watch the
+02:03:03.599 stock market crash almost 50% because of
+02:03:06.480 the OPAC oil embargo forced them to
+02:03:09.119 prioritize fighting inflation over
+02:03:11.280 saving asset prices. Now under those
+02:03:13.520 situations we need to monitor what the
+02:03:16.080 Fed's primary mandate is number one
+02:03:18.880 lowering the unemployment rate and
+02:03:20.639 number two keeping the inflation low. So
+02:03:22.800 under a situation when the inflation
+02:03:24.960 rate is so high that there's no actions
+02:03:27.280 which the Fed can take this whole model
+02:03:29.679 just becomes broken. Now if we apply
+02:03:32.080 that to the current world basically the
+02:03:34.560 CPI on an Y y basis is currently at
+02:03:37.599 about 3.3% which is extremely high. Now,
+02:03:40.880 that's why I've been telling you that
+02:03:42.719 this inflation needs to come down very
+02:03:44.639 quickly to below 2.5% in order for the
+02:03:47.679 Fed to have a lot more room to take
+02:03:50.080 actions when there is a systemic or
+02:03:53.599 credit crunch. Now, the third thing that
+02:03:55.520 we need to monitor is obviously as I've
+02:03:57.760 mentioned in my previous example,
+02:03:59.599 whether there are any fraud in relation
+02:04:01.440 to the accounting standards. Now when
+02:04:03.760 there is a distrust of the accounting
+02:04:05.840 which is basically the language of
+02:04:07.280 finance and the accounting from the
+02:04:10.480 investors everything breaks. Now the
+02:04:13.280 contagion of fabricated financial
+02:04:15.040 reporting among top tier publicly traded
+02:04:17.280 companies may lead to a catastrophic
+02:04:19.920 disposal of all the assets in the stock
+02:04:22.480 market which nobody can stop. Even the
+02:04:24.960 Fed even if they inject liquidity into
+02:04:27.119 the market, people may think that the
+02:04:29.760 Fed's action of injecting liquidity is
+02:04:32.320 also a fraud. So this fine balance of
+02:04:36.000 trust between the market and the
+02:04:37.920 institutions and the corporates needs to
+02:04:40.239 be maintained very clean at all times.
+02:04:43.599 Okay. So today I gave you some very
+02:04:45.760 simplified version of how to succeed in
+02:04:48.000 the market. So those five metrics are
+02:04:49.920 the primary metrics which I would like
+02:04:51.520 you to monitor in order to succeed in
+02:04:53.840 investing. But obviously as I said at
+02:04:56.239 the start of the video, please go back
+02:04:58.000 and watch my three other videos as well
+02:04:59.840 very carefully in order to get a better
+02:05:02.400 understanding about investing. I hope
+02:05:04.719 you enjoyed the video and I'll be back
+02:05:06.000 with more videos very soon. Okay, so
+02:05:08.239 that wraps up everything I wanted to
+02:05:09.920 cover in this compilation video. As you
+02:05:11.840 may have felt from all the videos,
+02:05:14.159 there's no single rule to succeed in
+02:05:16.239 investing. I sincerely hope you
+02:05:18.400 thoroughly watch and study everything I
+02:05:20.239 laid out in this video and come up with
+02:05:22.320 an investment strategy which would work
+02:05:24.159 for you. After all, everyone has
+02:05:26.320 different personalities and life
+02:05:27.760 principles which makes it impossible for
+02:05:29.840 someone to force a single strategy that
+02:05:32.159 would work for everyone. So, I just hope
+02:05:34.960 this video at least helped everyone
+02:05:36.880 watching to some degree. And also, thank
+02:05:39.280 you guys for watching throughout the
+02:05:40.560 long video. I'll be back with more
+02:05:42.320 videos very

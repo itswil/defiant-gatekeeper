@@ -6,15 +6,13 @@ Note: I am not Defiant Gatekeeper.
 
 ## 📹 Videos
 
-### [Full Course on Stock Investing](videos/full-course-on-stock-investing/)
+### Full Course on Stock Investing
 
 Notes from the 2-hour compilation covering valuation, macro indicators, Fed policy, and investment mindset.
 
-| File | Description |
-|------|-------------|
-| `notes.md` | 📝 Detailed notes with timestamps linking to specific video sections |
-| `cheatsheet.md` | 📋 Quick reference - formulas, thresholds, and decision rules |
-| `transcript-original.txt` | 🎙️ Raw transcript of the full video |
+- `full-course-on-stock-investing-2-hours/notes.md` — 📝 Detailed notes with timestamps linking to specific video sections
+- `full-course-on-stock-investing-2-hours/cheatsheet.md` — 📋 Quick reference - formulas, thresholds, and decision rules
+- `full-course-on-stock-investing-2-hours/transcript-original.txt` — 🎙️ Raw transcript of the full video
 
 [Original YouTube Link](https://www.youtube.com/watch?v=GCzjetZZU54)
 
@@ -22,6 +20,6 @@ Notes from the 2-hour compilation covering valuation, macro indicators, Fed poli
 
 ## 🚀 How to add a new video
 
-1. Create a new folder under `videos/`: `videos/<video-name>/`
-2. Add your notes, summaries, and transcripts there
+1. Create a folder named after the video title, all lowercase with hyphens (e.g. `full-course-on-stock-investing-2-hours/`)
+2. Add the video's files inside that folder, e.g. `notes.md`, `cheatsheet.md`, `transcript-original.txt`
 3. Link the video from this README

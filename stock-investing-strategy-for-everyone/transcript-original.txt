@@ -1,0 +1,531 @@
+# Stock investing strategy for EVERYONE (which I developed)
+# https://www.youtube.com/watch/len22DXc8AQ
+
+00:00:01.600 okay so after I started this channel a
+00:00:04.319 lot of you guys asked me to make a video
+00:00:06.000 on stock investment strategy for
+00:00:07.839 beginners which I've been giving some
+00:00:10.080 thought Now the reason I gave it a lot
+00:00:12.320 of thought is because number one I was
+00:00:14.639 not sure how basic it'll have to be to
+00:00:16.800 make it understandable for everyone
+00:00:18.480 watching while providing some meaningful
+00:00:20.439 information And number two there's
+00:00:22.720 really no right or wrong strategy in
+00:00:24.560 stock investing And number three there
+00:00:27.599 just too many variables and things to
+00:00:29.599 consider to put into a single video So I
+00:00:33.040 gave it some thought and decided to make
+00:00:34.880 the video with the following caveats
+00:00:37.440 Number one the strategy I'm about to
+00:00:40.079 explain to you is the strategy which I
+00:00:42.520 use Now what I'm trying to say is that
+00:00:45.840 you may or may not decide to follow this
+00:00:48.480 strategy as I can't really say that this
+00:00:50.800 is the right strategy for you Please
+00:00:53.760 consider it as a playbook which you can
+00:00:56.800 play around with to potentially make
+00:00:58.800 better decisions when you're investing
+00:01:01.039 Number two I'll avoid explaining every
+00:01:03.680 single basics of terminologies and
+00:01:06.159 concepts given they're either available
+00:01:08.240 in my previous videos or can be easily
+00:01:10.560 understood by searching it yourself
+00:01:13.439 Number three I don't do short-term
+00:01:15.920 trading So please assume that my entire
+00:01:18.400 strategy is based on holding your
+00:01:20.159 investment for at least 3 months up to a
+00:01:23.680 few years until you reach a satisfiable
+00:01:26.600 return Now for the people who are
+00:01:28.720 viewing my video for the first time I
+00:01:30.720 suggest you either watch my other videos
+00:01:32.960 or watch this video very carefully to
+00:01:35.520 fully understand the logic behind it
+00:01:38.320 After all I just want all of you to
+00:01:40.240 learn something from this And also if
+00:01:42.479 you fully understand the concept of this
+00:01:44.400 video whatever your strategy is I'm sure
+00:01:47.200 you can use this video as your
+00:01:48.640 investment playbook to make
+00:01:50.079 modifications as you see fit for your
+00:01:52.680 purposes Okay caveats aside let's get to
+00:01:55.920 it To explain my investment strategy
+00:01:58.399 I'll first need to explain the Federal
+00:02:00.159 Reserve chessboard again So I've been
+00:02:03.040 repetitively saying that the most
+00:02:05.040 important aspect to consider when
+00:02:06.799 investing especially post the global
+00:02:08.720 financial crisis era is understanding
+00:02:10.800 the Federal Reserve's actions Now if any
+00:02:13.840 one of you disagree with this and would
+00:02:15.920 prefer investing in a stock in the super
+00:02:18.319 long term say 10 plus years without
+00:02:20.400 taking into account of the Fed policies
+00:02:22.720 that is fine too In that case this video
+00:02:25.680 might not be too helpful for you But the
+00:02:27.760 reason I take into account of the Fed
+00:02:29.599 policies is because while I don't
+00:02:31.760 short-term trade I do want to maximize
+00:02:34.080 my profits by adjusting my investment
+00:02:36.080 portion and types of stocks by taking
+00:02:38.440 profits in a few months or two years
+00:02:41.120 maximum Okay I also explained that there
+00:02:44.080 are two major metrics which we need to
+00:02:45.920 monitor with the first metric being the
+00:02:48.160 Federal Reserve interest rate and the
+00:02:51.040 second metric being the Federal Reserve
+00:02:52.879 balance sheet Now to recap this table
+00:02:56.000 basically the Federal Reserve uses these
+00:02:58.239 two tools to control the liquidity in
+00:03:00.560 the market First on the interest rate
+00:03:02.879 the Federal Reserve can guide it towards
+00:03:04.720 being low or can guide it towards being
+00:03:06.800 high Now if the interest rate gets low
+00:03:09.519 there are two implications which happens
+00:03:12.239 First is in general the market's
+00:03:15.040 valuation will go up Now when I say
+00:03:18.239 valuation I'm referring to the typical
+00:03:20.640 valuation metrics like the price to
+00:03:22.800 earnings ratio and EV over EB multiple
+00:03:26.400 Now let me try to explain why this
+00:03:28.239 happens You might remember from my DCF
+00:03:30.959 video which I made as a joke and trying
+00:03:33.120 to value dating that when I discounted
+00:03:35.760 the cash flows I used a thing called a
+00:03:38.400 whack Now you may remember that the
+00:03:41.840 whack is composed of two things which
+00:03:44.000 are cost of debt and cost of equity Now
+00:03:47.519 simply put cost of debt refers to the
+00:03:49.920 interest rate the company needs to pay
+00:03:51.680 when borrowing money So if the interest
+00:03:54.720 rate goes lower cost of debt becomes
+00:03:57.239 lower Also on the cost of equity side if
+00:04:01.200 the interest rate goes lower a core
+00:04:03.439 component of the cost of equity which is
+00:04:05.519 the risk-free rate which is essentially
+00:04:07.840 the US Treasury yield will also go lower
+00:04:11.360 So you can safely assume that the whack
+00:04:13.760 will go lower if the interest rate goes
+00:04:16.600 lower Now you're using this whack to
+00:04:19.358 discount the future cash flows of the
+00:04:21.199 company Therefore if the whack goes
+00:04:23.919 lower the value of the cash flows will
+00:04:26.400 go up To give you a simple example if
+00:04:29.120 the company is projected to generate
+00:04:31.120 $100 of cash flow next year and the
+00:04:33.600 whack is at 10% The current value of the
+00:04:37.600 $100 would be $100 divided by 1 + 10%
+00:04:42.800 which is $90.9
+00:04:45.680 However if the whack goes down to 8% the
+00:04:49.440 $100 divided by 1 plus 8% becomes
+00:04:54.199 $92.6 Therefore the future cash flow of
+00:04:57.040 the company will be valued higher which
+00:04:59.600 leads to a higher valuation of companies
+00:05:03.199 If the value of the companies goes
+00:05:04.880 higher it'll lead to the price to
+00:05:07.280 earnings ratio or EV over EVA multiple
+00:05:10.080 also going higher because the absolute
+00:05:12.400 earnings of the company is fixed while
+00:05:14.560 the value goes higher leading to a
+00:05:16.960 higher multiple Now the second reason
+00:05:19.199 the company's value goes higher is
+00:05:21.280 because if the interest rate goes low
+00:05:23.440 interest on bonds will also go lower as
+00:05:25.919 well Now I don't think I need to explain
+00:05:28.720 why that is Basically lower interest
+00:05:31.440 rate would mean that you'll be earning
+00:05:33.600 less interest on a bond So what
+00:05:36.080 generally happens is because the bond
+00:05:38.400 interest rate becomes low the investors
+00:05:41.120 will generally avoid investing in the
+00:05:42.960 bond and look for a high yielding asset
+00:05:45.680 like stocks Therefore the demand for
+00:05:48.560 stocks would increase leading to a high
+00:05:50.960 valuation of stocks Okay So that's the
+00:05:54.160 first thing that happens The second
+00:05:56.320 thing that happens is if the interest
+00:05:58.400 rate goes low all companies debt burden
+00:06:01.440 will be significantly reduced Now when
+00:06:04.319 companies take on debt or issue bonds
+00:06:06.960 companies will need to pay interest on
+00:06:08.639 them Now if the interest rate goes low
+00:06:11.440 companies with a lot of debt will be
+00:06:13.280 reduced with the burden of paying
+00:06:14.960 interest on them And even if companies
+00:06:17.440 don't have any debt they'll be less
+00:06:19.520 reluctant to take on the debt because
+00:06:21.600 interest rate is very low Now under this
+00:06:24.840 scenario which companies do you think
+00:06:26.960 will benefit the
+00:06:28.600 most Basically the companies which are
+00:06:31.360 expanding rapidly and growing rapidly
+00:06:33.919 will benefit the most I mean companies
+00:06:36.639 which are not growing and only full of
+00:06:38.479 debt will also benefit but I'll not go
+00:06:40.720 into those companies because we
+00:06:42.080 shouldn't invest in those companies Okay
+00:06:44.880 So going back to my point the companies
+00:06:46.800 which are growing and expanding with a
+00:06:48.639 lot of debt with not much money because
+00:06:51.199 they're not generating profits will
+00:06:52.800 benefit the most Okay So those two are
+00:06:55.840 the biggest things which happens when
+00:06:57.520 the interest rate is low Now if the
+00:06:59.759 interest rate is high it's the opposite
+00:07:02.400 Market valuation will go down because
+00:07:04.560 whack goes higher and there will be some
+00:07:07.120 shift from stock investors to bond
+00:07:09.400 investors Also companies with high
+00:07:11.840 profit and cash flow will benefit
+00:07:14.240 Obviously high growth companies are
+00:07:16.240 always good So I won't put that down
+00:07:18.160 here Okay So we covered the interest
+00:07:20.240 rate Let's move over to the Federal
+00:07:21.919 Reserve balance sheet Okay So if the
+00:07:24.400 Federal Reserve balance sheet is
+00:07:25.680 increasing this means that the Federal
+00:07:28.560 Reserve is buying assets and increasing
+00:07:30.880 their balance sheet The assets which the
+00:07:33.840 Federal Reserve buys are mostly Treasury
+00:07:36.400 bonds and mortgage back securities
+00:07:39.199 Basically you can think of this scenario
+00:07:40.880 as the Federal Reserve conducting the
+00:07:42.639 quantitative easing Now under this
+00:07:45.199 scenario I explained in my whether QE
+00:07:47.680 and bailout should be allowed video
+00:07:49.680 basically two things happen First thing
+00:07:52.880 that happens is because the Federal
+00:07:54.720 Reserve purchased so much bonds from
+00:07:56.879 financial institutions these financial
+00:07:59.360 institutions receive so much cash in
+00:08:01.840 return that they become extremely eager
+00:08:04.160 to lend the cash to people and
+00:08:06.240 corporates So obviously the first thing
+00:08:09.039 that happens is it becomes extremely
+00:08:11.280 easy to borrow
+00:08:12.919 money Now as I explained in my previous
+00:08:15.440 video as well because these financial
+00:08:17.919 institutions are so eager to lend money
+00:08:20.400 money becomes extremely cheap and people
+00:08:23.039 can borrow at a very low borrowing rate
+00:08:25.680 So that's the next thing that happens
+00:08:27.599 The borrowing rate becomes very low Okay
+00:08:30.560 Now if the Federal Reserve balance sheet
+00:08:32.320 decreases you can think of it as a
+00:08:34.240 quantitative tapering scenario Basically
+00:08:36.799 the Federal Reserve is draining the
+00:08:38.320 money in the market and sucking it up by
+00:08:40.640 either selling the bonds to financial
+00:08:42.479 institutions in return for cash which is
+00:08:45.120 not doing anything and letting the bonds
+00:08:47.000 mature So under this case it'll be the
+00:08:50.160 opposite of the balance sheet increasing
+00:08:52.000 case So basically it'll be harder to
+00:08:54.320 borrow money and the borrowing rate goes
+00:08:56.680 higher Okay Now up to this point we have
+00:08:59.519 covered the implications of the Federal
+00:09:01.440 Reserve policies Now let's move over to
+00:09:04.800 the actual stocks So let's assume there
+00:09:07.519 are four stocks Stock A stock B stock C
+00:09:12.000 and stock
+00:09:13.480 D Okay So when looking at a stock while
+00:09:16.880 there are millions of things you should
+00:09:18.399 be looking at if I were to pick four
+00:09:20.800 major metrics to look at those would be
+00:09:23.760 number one revenue growth number two
+00:09:26.560 earnings growth number three forward
+00:09:29.200 price to earnings ratio and number four
+00:09:31.920 debt to EVA ratio
+00:09:34.959 Okay Now please keep in mind that I'm
+00:09:36.800 just giving some examples of stocks just
+00:09:38.720 to give you an idea how you can play
+00:09:40.560 around with the stocks in accordance
+00:09:42.640 with the Federal Reserve environment Now
+00:09:45.519 revenue growth is straightforward Also
+00:09:48.160 earnings growth is straightforward
+00:09:50.880 Basically you just take next year's
+00:09:52.640 earnings and divide it with last year's
+00:09:54.959 earnings and see how much growth the
+00:09:57.040 company is recording On the forward
+00:09:59.839 price to earnings ratio please refer to
+00:10:01.839 my price to earnings ratio video I just
+00:10:04.080 want to emphasize that for the price to
+00:10:06.000 earnings ratio you should not look at
+00:10:08.320 trailing price to earnings ratio For
+00:10:10.880 example right now it's early 2025 So
+00:10:14.079 don't use the price to earnings ratio by
+00:10:16.079 using the 2024 earnings but use 2025
+00:10:19.839 year end expected earnings to derive the
+00:10:22.480 expected price to earnings ratio The
+00:10:24.880 reason is number one the investors
+00:10:27.279 generally care about what will happen to
+00:10:29.040 the company's future earnings as they're
+00:10:30.720 forward-looking And number two
+00:10:32.880 historical earnings can be heavily
+00:10:34.480 distorted due to one-off earnings or
+00:10:36.560 losses Okay on the debt to EVA ratio the
+00:10:39.839 only reason I look at this is because I
+00:10:41.920 try to find out how much leverage the
+00:10:43.760 company has Also the level of leverage a
+00:10:46.959 company has become increasingly
+00:10:49.519 important given the drastic monetary and
+00:10:51.839 fiscal policies which the Federal
+00:10:53.360 Reserve is adopting these days Basically
+00:10:56.399 the level of debt a company has would
+00:10:59.160 drastically determine the company's
+00:11:01.440 valuation level given the interest rate
+00:11:03.760 they pay on the loans and their ability
+00:11:06.160 to refinance the loans can get
+00:11:08.240 significantly easier or challenging
+00:11:10.480 depending on the Federal Reserve policy
+00:11:12.160 environment
+00:11:13.760 Now EBIDA is the most representative
+00:11:15.920 metric which the company generates from
+00:11:18.720 its operations as it adds back interest
+00:11:22.240 taxes and depreciation and advertisation
+00:11:25.279 So you can just simply think of it as a
+00:11:27.120 free cash flow matrix which the company
+00:11:30.079 generates every year Now by looking at
+00:11:32.880 the debt to evid matrix you're able to
+00:11:35.360 figure out how many years the company
+00:11:37.360 will take to pay down its debt
+00:11:40.800 Okay so starting with company A let's
+00:11:42.959 assume that company A has revenue growth
+00:11:45.279 of 5% earnings growth of 5% price to
+00:11:49.760 earnings ratio of 10X and debt to EVA
+00:11:52.800 ratio of one times So basically company
+00:11:56.399 A has humble revenue and earnings growth
+00:11:58.959 but is trading at a very low valuation
+00:12:01.040 of 10 times price to earnings ratio and
+00:12:03.839 its debt to EVA is at one times which
+00:12:07.120 means the company has almost no debt So
+00:12:10.000 the company A is very very very stable
+00:12:13.760 company with little growth and no debt
+00:12:16.800 Okay For company B let's assume that
+00:12:19.040 company B has revenue growth of 10%
+00:12:22.320 earnings growth of 10% price to earnings
+00:12:25.440 ratio of 20 times and debt to EVA of
+00:12:29.519 three times So basically company B has
+00:12:32.959 some growth but is trading at a slightly
+00:12:35.279 higher valuation of 20 times price to
+00:12:37.680 earnings ratio and its debt to EVA is at
+00:12:40.560 three times which means the company has
+00:12:43.120 some debt So company B has okay growth
+00:12:46.720 slightly high valuation and some debt
+00:12:50.000 Okay for company C let's assume that
+00:12:52.000 company C has revenue growth of 20%
+00:12:55.040 earnings growth of 10% price to earnings
+00:12:58.079 ratio of 25 times and debt to EBIDA of
+00:13:01.680 five times So basically company C has
+00:13:05.200 high growth but is trading at a high
+00:13:07.360 valuation of 25 times price to earnings
+00:13:09.839 ratio and its debt to EVA is at five
+00:13:12.720 times Which means the company has high
+00:13:15.279 debt So company C has high growth high
+00:13:18.800 valuation and high
+00:13:21.000 debt Okay for company D let's assume
+00:13:23.760 that company D has revenue growth of
+00:13:25.920 over 50% It could be 80% or 100% but
+00:13:30.639 let's assume it has a very very high
+00:13:33.040 growth profile Also company D is
+00:13:36.320 recording losses So there's no such
+00:13:38.480 thing as an earnings growth or price to
+00:13:40.720 earnings ratio Let's also assume that
+00:13:43.200 company D has a huge debt But given the
+00:13:46.320 company doesn't have any earnings its
+00:13:48.160 IBIDA is also negative So debt to IBITA
+00:13:51.360 can't be calculated Okay So let's go
+00:13:54.000 back to the Federal Reserve chessboard
+00:13:55.600 to see which stock we should buy in each
+00:13:58.399 of the periods So let's start with the
+00:14:00.399 fourth quadrant which is the least
+00:14:02.320 liquid period Basically the interest
+00:14:04.959 rate is high or getting higher and the
+00:14:07.440 Federal Reserve balance sheet is
+00:14:10.440 decreasing Basically very little
+00:14:12.959 liquidity is in the market
+00:14:15.440 Okay During times like this in terms of
+00:14:18.480 making the investment I would personally
+00:14:20.959 not invest over 20% of my cash or even
+00:14:24.000 just sit on the sideline to observe the
+00:14:25.839 market I would think that this would be
+00:14:27.760 a very risky time to invest given the
+00:14:29.920 stock valuations are getting lower and
+00:14:32.079 getting loans is not easy for companies
+00:14:34.320 as well But if I had to choose a stock
+00:14:37.680 to invest during this period I would
+00:14:40.040 choose stock A Now the reason I'll
+00:14:43.600 choose stock A is because despite the
+00:14:45.600 low growth the company's recording the
+00:14:48.160 low level of leverage which the company
+00:14:50.160 has will keep the company solvent Also
+00:14:53.199 given the company's valuation is already
+00:14:55.360 very low at 10 times the increase in the
+00:14:58.880 whack will not impact the company's
+00:15:01.360 valuation that much Basically if your
+00:15:04.399 nominator is high increase in the
+00:15:07.199 denominator will have a much significant
+00:15:09.519 impact in absolute terms Now percentage-
+00:15:13.040 wise it may be the same but my
+00:15:15.199 observation on the market is that if a
+00:15:17.440 company with high valuation multiple is
+00:15:19.519 impacted by increasing interest rate
+00:15:22.160 it'll trigger the selloff mentality of
+00:15:24.480 the investors and the stock may
+00:15:26.079 experience a huge drop So to play safe
+00:15:29.519 I'll prefer investing in stocks like
+00:15:31.360 company A So let's move on to the third
+00:15:33.680 quadrant which is the in between period
+00:15:37.440 Basically the interest rate is low or
+00:15:39.839 getting lower and the Federal Reserve
+00:15:41.839 balance sheet is decreasing Basically
+00:15:44.800 there's some liquidity in the market
+00:15:47.519 Okay During times like this for the
+00:15:49.519 investment I would personally not invest
+00:15:52.000 over 50% of my cash or same as the
+00:15:55.680 fourth quadrant I'll just sit on the
+00:15:57.759 sideline to observe the market depending
+00:15:59.440 on the circumstances I think you will
+00:16:02.240 need to invest in stocks quite
+00:16:04.320 selectively during times like this too
+00:16:06.480 given liquidity is still there but not
+00:16:09.040 always
+00:16:10.199 there Okay for the stock if I had to
+00:16:13.360 choose a stock to invest during this
+00:16:14.959 period I would choose stock C Now stock
+00:16:18.720 B and stock C would both work but I
+00:16:21.199 would prefer stock C The reason I would
+00:16:24.160 prefer stock C is because company C has
+00:16:27.120 high growth which would definitely be
+00:16:29.279 valued in the market but also has high
+00:16:32.279 leverage Now assuming company C already
+00:16:34.959 has enough debt it needs it'll benefit a
+00:16:37.920 lot from the decreasing interest rate
+00:16:40.480 Now because it has enough debt it won't
+00:16:42.880 have to borrow a lot of new money and
+00:16:44.800 just refinance the existing loans So it
+00:16:47.759 would work even under an environment
+00:16:50.000 when the Federal Reserve balance sheet
+00:16:51.600 is decreasing Also while the valuation
+00:16:54.720 of company C is quite high as long as it
+00:16:57.199 can maintain the revenue growth it
+00:16:58.959 valuation will be justified given it low
+00:17:01.199 interest rate environment where the
+00:17:02.880 whack is going lower Okay So let's move
+00:17:05.599 on to the second which is also the in
+00:17:08.640 between period Basically the interest
+00:17:11.439 rate is high or getting higher and the
+00:17:13.839 Federal Reserve balance sheet is
+00:17:15.359 increasing It would be the similar as
+00:17:18.000 the third quadrant but slightly
+00:17:20.160 different in a sense that the interest
+00:17:22.079 rate is high Okay During times like this
+00:17:26.079 for the investment same as the third
+00:17:27.760 quadrant I would personally not invest
+00:17:30.000 over 50% of my cash or just sit on the
+00:17:32.640 sideline to observe the market Again I
+00:17:35.679 will need to invest in stocks quite
+00:17:37.360 selectively during times like this as
+00:17:39.880 well Okay For the stock if I had to
+00:17:42.640 choose a stock to invest during this
+00:17:44.240 period I would choose stock B Now again
+00:17:48.480 stock B and C would both work but I
+00:17:50.799 would prefer stock B The reason I would
+00:17:54.000 prefer stock B is because company B has
+00:17:57.200 some growth which is okay but also has
+00:17:59.919 some leverage Now given company B has
+00:18:03.440 some leverage but not as much as company
+00:18:05.440 C it should be relatively okay under a
+00:18:08.080 high interest rate environment And also
+00:18:10.799 while price to earnings ratio is
+00:18:12.480 somewhat high but it is not as high as
+00:18:15.200 company C's So the impact from the whack
+00:18:17.919 going higher would be relatively
+00:18:20.039 controlled Okay Now let's move on to the
+00:18:22.559 final quadrant which is the first
+00:18:25.160 quadrant Okay Now in this quadrant I
+00:18:29.039 will super aggressively invest into the
+00:18:31.600 market I mean I'll not only invest 100%
+00:18:35.200 of my cash but if possible even take on
+00:18:37.919 loans to invest Basically this is a
+00:18:41.120 period where the Federal Reserve is
+00:18:42.880 decreasing the interest rate and
+00:18:44.559 conducting the QE at the same time to
+00:18:46.960 increase its balance sheet Also in terms
+00:18:50.160 of the stock to invest I will invest in
+00:18:52.559 stock D which is recording excessive
+00:18:55.200 growth with no earnings Now as I said
+00:18:58.000 multiple times in my previous videos
+00:18:59.760 this is the time when the companies
+00:19:01.760 rarely go bankrupt So you do not need to
+00:19:05.200 worry about the amount of debt a company
+00:19:07.280 has given they should be able to either
+00:19:09.919 refinance the loan or get more loan from
+00:19:12.240 the bank Also the financing cost is
+00:19:14.960 extremely low So the company would not
+00:19:16.799 have any issues in paying the interest
+00:19:18.400 with more debt or equity
+00:19:21.039 Also given the low interest rate this is
+00:19:23.280 the time when people hunt desperately
+00:19:25.440 for growth All the money in the bond
+00:19:27.919 market will shift away to stocks and
+00:19:29.760 given there's so much liquidity they'll
+00:19:31.760 just look for fast money where the
+00:19:33.520 growth can be achieved Okay so invest in
+00:19:36.240 company During this time But I will make
+00:19:38.799 one single caveat though For a stock
+00:19:41.760 like company D you really really really
+00:19:46.880 need to exit the investment at the right
+00:19:49.440 time when you feel like you gained a lot
+00:19:52.080 of profit or when you feel like there's
+00:19:54.080 any and I mean any signs of the interest
+00:19:57.039 rate going back up or the quantitative
+00:19:59.679 easing ending you have to sell the stock
+00:20:02.480 right away Don't get swayed away with
+00:20:05.440 the media or Wall Street bats screaming
+00:20:07.840 to the moon or whatever Just just sell
+00:20:10.480 20% profit 50% profit 100% profit 200%
+00:20:14.240 profit These are all great Just hit the
+00:20:16.480 sell button whenever you see any signs
+00:20:18.559 of any changes happening in the market
+00:20:21.120 Okay guys to wrap up I'll note a few
+00:20:23.760 things Please listen carefully Number
+00:20:25.919 one a stock with company D's growth and
+00:20:29.120 company A's valuation and leverage ratio
+00:20:31.520 would be the best in all scenarios If
+00:20:33.679 you can find a stock like that go for it
+00:20:35.760 However there are not many companies
+00:20:37.280 like that out there So that's why I'm
+00:20:39.600 giving these illustrative examples with
+00:20:42.159 madeup companies
+00:20:44.240 Number two when you pick a stock please
+00:20:46.720 compare it against other companies
+00:20:48.400 within the same sector Try to check
+00:20:50.960 whether the company's valuation or
+00:20:52.320 growth is lower or higher versus as peer
+00:20:55.760 companies and take that into
+00:20:57.280 consideration when investing Number
+00:21:00.000 three don't chase for fast money The
+00:21:03.440 more you chase it it'll run away You
+00:21:06.320 don't have to invest and hold a stock
+00:21:07.919 for 20 years but at least say bye-bye to
+00:21:10.880 your cash for the next 6 months or two
+00:21:13.360 years when you buy a stock It may go
+00:21:15.440 down in the short term but if you did
+00:21:17.360 your work you have the chance of
+00:21:18.799 succeeding down the road Okay guys So
+00:21:21.520 this is the end of my investment
+00:21:22.880 strategy video but now I do want to
+00:21:25.360 emphasize again and please listen to
+00:21:28.039 this This strategy is my strategy It may
+00:21:31.840 work for you or may not work for you But
+00:21:34.400 if you understood my points correctly
+00:21:36.720 you will learn something from it and you
+00:21:39.039 should be able to use this information
+00:21:40.640 in your own way to make your own
+00:21:42.720 investment decisions Now the reason I
+00:21:45.360 made this video is to help you make
+00:21:47.440 better decisions So I really hope all of
+00:21:49.520 you guys succeed with your investments
+00:21:51.200 down the road Thank you And I'll be back
+00:21:53.760 with more videos very

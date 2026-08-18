@@ -16,8 +16,14 @@ Notes from the 2-hour compilation covering valuation, macro indicators, Fed poli
 
 ---
 
-## 🚀 How to add a new video
+### Stock Investing Strategy for EVERYONE
 
-1. Create a folder named after the video title, all lowercase with hyphens (e.g. `full-course-on-stock-investing-2-hours/`)
-2. Add the video's files inside that folder, e.g. `notes.md`, `cheatsheet.md`, `transcript-original.txt`
-3. Link the video from this README
+The creator's personal stock investment playbook — pairing Fed policy (rates + balance sheet) with stock archetypes to decide what to buy and how much.
+
+- [Notes](stock-investing-strategy-for-everyone/notes.md) — 📝 Detailed notes with timestamps linking to specific video sections
+- [Cheatsheet](stock-investing-strategy-for-everyone/cheatsheet.md) — 📋 Quick reference - stock archetypes and Fed quadrant rules
+- [Transcript](stock-investing-strategy-for-everyone/transcript-original.txt) — 🎙️ Raw transcript of the video
+
+[Original YouTube Link](https://www.youtube.com/watch?v=len22DXc8AQ)
+
+---

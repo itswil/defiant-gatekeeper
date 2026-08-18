@@ -1,8 +1,12 @@
 # 📈 Defiant Gatekeeper
 
-Personal notes and summaries on videos from [Defiant Gatekeeper](https://www.youtube.com/@DefiantGatekeeper), the best investing YouTuber.
+Personal notes and summaries on videos from [Defiant Gatekeeper](https://www.youtube.com/@DefiantGatekeeper).
 
-Note: I am not Defiant Gatekeeper.
+## 🔗 Quick Links
+
+- [Notes](full-course-on-stock-investing-2-hours/notes.md) — 📝 Detailed notes with timestamps
+- [Cheatsheet](full-course-on-stock-investing-2-hours/cheatsheet.md) — 📋 Formulas, thresholds, and decision rules
+- [Transcript](full-course-on-stock-investing-2-hours/transcript-original.txt) — 🎙️ Raw transcript of the full video
 
 ## 📹 Videos
 
